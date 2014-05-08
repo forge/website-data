@@ -5,6 +5,7 @@ author: Lincoln Baxter, III
 email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/addon-mail.git
+branch: master
 tags: Email, Client, SMTP
 ---
 id: org.jboss.forge.addon:gradle
@@ -14,5 +15,6 @@ author: Adam Wyluda
 email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/addon-gradle.git
+branch: master
 tags: Gradle, Build System
 ---
