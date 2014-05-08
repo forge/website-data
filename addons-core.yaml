@@ -1,0 +1,18 @@
+id: org.jboss.forge.addon:mail
+name: Mail
+description: Simple email client for Forge
+author: Lincoln Baxter, III
+email: forge-dev@lists.jboss.org
+website: http://forge.jboss.org
+repo: https://github.com/forge/addon-mail.git
+tags: Email, Client, SMTP
+---
+id: org.jboss.forge.addon:gradle
+name: Gradle
+description: Gradle build system support for Forge
+author: Adam Wyluda
+email: forge-dev@lists.jboss.org
+website: http://forge.jboss.org
+repo: https://github.com/forge/addon-gradle.git
+tags: Gradle, Build System
+---

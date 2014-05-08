@@ -1,0 +1,16 @@
+title: Develop an Addon
+summary: Learn how to build a Forge addon and share it.
+repo: https://github.com/forge/docs.git
+ref: master
+path: /get_started/Develop-your-addon.asciidoc
+author: Lincoln Baxter, III
+email: lincolnbaxter@gmail.com
+---
+title: Run Forge Embedded
+summary: Want to run Forge addons in an embedded application? Learn to use Furnace - The modular runtime container behind Forge.
+repo: https://github.com/forge/docs.git
+ref: master
+path: tutorials/Running-Standalone-Furnace.asciidoc
+author: George Gastaldi
+email: ggastald@redhat.com
+---

@@ -1,0 +1,9 @@
+id: org.jboss.forge.addon:as
+name: WildFly AS
+description: Deployment and control for JBoss Wildfly and EAP
+author: Jérémie Lagarde
+email: jer@printstacktrace.org
+website: http://printstacktrace.org
+repo: https://github.com/jerr/as-forge-addon.git
+tags: JBoss, Application Server, Wildfly, EAP, Deploy
+---
