@@ -14,3 +14,11 @@ path: tutorials/Running-Standalone-Furnace.asciidoc
 author: George Gastaldi
 email: ggastald@redhat.com
 ---
+title: Test your Addon
+summary: Learn how to write real tests for your Forge Addon.
+repo: https://github.com/forge/docs.git
+ref: master
+path: /advanced/Testing-your-addons.asciidoc
+author: Vineet Reynolds
+email: vineetr@redhat.com
+---
