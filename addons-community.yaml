@@ -20,7 +20,7 @@ tags: JBoss, Portlet
 ---
 id: org.jboss.forge.addon:jira
 name: JIRA
-description: Open JIRA issues directly in FORGE
+description: Open JIRA issues directly in Forge
 author: George Gastaldi
 email: gegastaldi@gmail.com
 website: https://github.com/gastaldi/addon-jira
