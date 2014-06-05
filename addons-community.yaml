@@ -10,7 +10,7 @@ tags: JBoss, Application Server, Wildfly, EAP, Deploy
 ---
 id: org.jboss.forge.addon:portlet
 name: Portlet
-description: Supports Portlets 2.0 
+description: Supports Portlets 2.0
 author: Jérémie Lagarde
 email: jer@printstacktrace.org
 website: http://printstacktrace.org
@@ -28,6 +28,13 @@ repo: https://github.com/gastaldi/addon-jira.git
 branch: master
 tags: Atlassian, JIRA
 ---
-
-
-
+id: org.jboss.forge.addon:confluence
+name: Confluence
+description: Publish/Download Document to/from Confluence (using Maven)
+author: Bartolomeo  Sorrentino
+email: bartolomeo.sorrentino@gmail.com
+website: https://code.google.com/p/maven-confluence-plugin/
+repo: https://github.com/bsorrentino/maven-confluence-reporting-plugin.git
+branch: v4
+tags: Atlassian, Confluence, Maven, Wiki
+---
