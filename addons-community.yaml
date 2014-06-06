@@ -5,7 +5,7 @@ author: Jérémie Lagarde
 email: jer@printstacktrace.org
 website: http://printstacktrace.org
 repo: https://github.com/jerr/as-forge-addon.git
-branch: master
+branch: forge2
 tags: JBoss, Application Server, Wildfly, EAP, Deploy
 ---
 id: org.jboss.forge.addon:portlet
