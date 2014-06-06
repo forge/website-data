@@ -1,0 +1,24 @@
+title: Write a Java EE Web Application - Advanced
+summary: Use Forge to create a entire Java EE Web application.
+repo: https://github.com/forge/docs.git
+ref: master
+path: /get_started/Writing-advanced-java-ee-web-app.asciidoc
+author: Antonio Goncalvez
+email: antonio.goncalves@gmail.com
+---
+title: Write a Java EE Web Application - Basic
+summary: Use Forge to create a basic Java EE Web application.
+repo: https://github.com/forge/docs.git
+ref: master
+path: /get_started/Writing-basic-java-ee-web-app.asciidoc
+author: Antonio Goncalvez
+email: antonio.goncalves@gmail.com
+---
+title: Write a Java EE REST Application - Basic
+summary: Use Forge to create a basic Java EE REST application.
+repo: https://github.com/forge/docs.git
+ref: master
+path: /get_started/Writing-basic-java-ee-rest-app.asciidoc
+author: Antonio Goncalvez
+email: antonio.goncalves@gmail.com
+---
