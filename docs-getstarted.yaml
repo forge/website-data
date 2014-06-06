@@ -3,7 +3,7 @@ summary: Get Forge installed in your native terminal.
 repo: https://github.com/forge/docs.git
 ref: master
 path: /get_started/Installation.asciidoc
-author: Antonio Goncalvez
+author: Antonio Goncalves
 email: antonio.goncalves@gmail.com
 ---
 title: Sample Forge usage tasks
@@ -11,6 +11,6 @@ summary: Use Forge to perform simple tasks on, and generate, Java EE code.
 repo: https://github.com/forge/docs.git
 ref: master
 path: /get_started/Samples.asciidoc
-author: Antonio Goncalvez
+author: Antonio Goncalves
 email: antonio.goncalves@gmail.com
 ---
