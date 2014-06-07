@@ -38,3 +38,13 @@ repo: https://github.com/bsorrentino/maven-confluence-reporting-plugin.git
 branch: v4
 tags: Atlassian, Confluence, Maven, Wiki
 ---
+id: org.javaee-samples:javaee-samples-forge-addon
+name: JavaEE Samples
+description: Search for JavaEE Samples
+author: Aslak Knutsen
+email: aslak@4fs.no
+website: http://javaee-samples.github.io/
+repo: https://github.com/javaee-samples/javaee-samples-forge-addon.git
+branch: master
+tags: Sample, Example, Batch, CDI, Concurrency, EJB, EL, JACC, JASPIC, JavaMail, JAX-RS, JAX-WS, JCA, JMS, JPA, JSF, JSON, JTA, Servlet, Validation, WebSocket
+---
