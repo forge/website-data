@@ -7,6 +7,7 @@ website: http://forge.jboss.org
 repo: https://github.com/forge/addon-mail.git
 branch: master
 tags: Email, Client, SMTP
+logo: http://9to5mac.files.wordpress.com/2013/06/mail.png?w=50
 ---
 id: org.jboss.forge.addon:gradle
 name: Gradle
