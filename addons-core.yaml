@@ -20,13 +20,13 @@ branch: master
 tags: Gradle, Build System
 ---
 id: org.jboss.forge.addon:angularjs
-name: Angular JS
-description: Angular JS Scaffold Implementation
+name: AngularJS
+description: AngularJS Scaffold Implementation
 author: Vineet Reynolds
 email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/angularjs-addon.git
 branch: master
-tags: Angular JS, Scaffold, HTML5, REST
+tags: AngularJS, Scaffold, HTML5, REST
 logo: https://pbs.twimg.com/profile_images/2149314222/square.png
 ---
