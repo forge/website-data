@@ -30,3 +30,14 @@ branch: master
 tags: AngularJS, Scaffold, HTML5, REST
 logo: https://pbs.twimg.com/profile_images/2149314222/square.png
 ---
+id: org.jboss.forge.addon:ui
+name: UI
+description: The core User Interface Abstraction for Forge
+author: Forge Team
+email: forge-dev@lists.jboss.org
+website: http://forge.jboss.org
+repo: https://github.com/forge/core.git
+branch: master
+tags: UI
+path: /ui
+---
