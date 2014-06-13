@@ -1,0 +1,8 @@
+title : New Website
+summary: The JBoss Forge website was upgraded.
+repo: https://github.com/forge/docs.git
+ref: master
+path: /news/2014-06-13-website.asciidoc
+author: Forge Team
+email: forge@redhat.com
+---
