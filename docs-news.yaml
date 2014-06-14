@@ -1,6 +1,6 @@
 title : New Website
 summary: The JBoss Forge website was upgraded.
-date: 2014-06-12
+date: 2014-06-13 14:00:00 -3
 repo: https://github.com/forge/docs.git
 ref: master
 path: /news/2014-06-13-website.asciidoc
