@@ -1,9 +1,9 @@
-title : New Website
-summary: The JBoss Forge website was upgraded.
+title : We have a new website
+summary: The JBoss Forge website is being upgraded to provide easier access to documentation, simpler ways to find addons, and better tutorials and quickstarts.
 date: 2014-06-13 14:00:00 -3
 repo: https://github.com/forge/docs.git
 ref: master
 path: /news/2014-06-13-website.asciidoc
-author: Forge Team
-email: forge@redhat.com
+author: The Forge Team
+email: forge-dev@lists.jboss.org
 ---
