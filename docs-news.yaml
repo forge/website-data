@@ -4,6 +4,6 @@ date: 2014-06-13 14:00:00 -3
 repo: https://github.com/forge/docs.git
 ref: master
 path: /news/2014-06-13-website.asciidoc
-author: The Forge Team
+author: Forge Team
 email: forge-dev@lists.jboss.org
 ---
