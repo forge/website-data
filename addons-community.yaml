@@ -5,7 +5,7 @@ author: Jérémie Lagarde
 email: jer@printstacktrace.org
 website: http://printstacktrace.org
 repo: https://github.com/jerr/as-forge-addon.git
-branch: forge2
+ref: forge2
 tags: JBoss, Application Server, Wildfly, EAP, Deploy
 ---
 id: org.jboss.forge.addon:portlet
@@ -15,7 +15,7 @@ author: Jérémie Lagarde
 email: jer@printstacktrace.org
 website: http://printstacktrace.org
 repo: https://github.com/jerr/portlet-forge-addon.git
-branch: forge2
+ref: forge2
 tags: JBoss, Portlet
 ---
 id: org.jboss.forge.addon:jira
@@ -25,7 +25,7 @@ author: George Gastaldi
 email: gegastaldi@gmail.com
 website: https://github.com/gastaldi/addon-jira
 repo: https://github.com/gastaldi/addon-jira.git
-branch: master
+ref: master
 tags: Atlassian, JIRA
 logo: https://c2.staticflickr.com/4/3234/2742514705_fe8fd07b14.jpg
 ---
@@ -36,7 +36,7 @@ author: Bartolomeo  Sorrentino
 email: bartolomeo.sorrentino@gmail.com
 website: https://code.google.com/p/maven-confluence-plugin/
 repo: https://github.com/bsorrentino/maven-confluence-reporting-plugin.git
-branch: v4
+ref: v4
 tags: Atlassian, Confluence, Maven, Wiki
 ---
 id: org.javaee-samples:javaee-samples-forge-addon
@@ -46,6 +46,6 @@ author: Aslak Knutsen
 email: aslak@4fs.no
 website: http://javaee-samples.github.io/
 repo: https://github.com/javaee-samples/javaee-samples-forge-addon.git
-branch: master
+ref: master
 tags: Sample, Example, Batch, CDI, Concurrency, EJB, EL, JACC, JASPIC, JavaMail, JAX-RS, JAX-WS, JCA, JMS, JPA, JSF, JSON, JTA, Servlet, Validation, WebSocket
 ---
