@@ -40,7 +40,7 @@ author: Forge Team
 email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
-branch: master
+ref: master
 tags: UI
 path: /ui
 ---
@@ -51,7 +51,7 @@ author: Forge Team
 email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
-branch: master
+ref: master
 tags: Addons
 path: /addon-manager
 ---
@@ -62,7 +62,7 @@ author: Forge Team
 email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
-branch: master
+ref: master
 tags: Addons, Development Tools
 path: /addons
 ---
@@ -73,7 +73,7 @@ author: Forge Team
 email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
-branch: master
+ref: master
 tags: Configuration
 path: /configuration
 ---
@@ -84,7 +84,7 @@ author: Forge Team
 email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
-branch: master
+ref: master
 tags: Conversion
 path: /convert
 ---
@@ -95,7 +95,7 @@ author: Forge Team
 email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
-branch: master
+ref: master
 tags: Dependency Resolution, Maven, Gradle, Ivy, Ant
 path: /dependencies
 ---
@@ -106,7 +106,7 @@ author: Forge Team
 email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
-branch: master
+ref: master
 tags: Java, Development, Tools
 path: /dev-tools-java
 ---
@@ -117,7 +117,7 @@ author: Forge Team
 email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
-branch: master
+ref: master
 tags: ENV, Configuration
 path: /environment
 ---
@@ -128,7 +128,7 @@ author: Forge Team
 email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
-branch: master
+ref: master
 tags: Facets
 path: /facets
 ---
@@ -139,7 +139,7 @@ author: Forge Team
 email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
-branch: master
+ref: master
 tags: Git, VCS, Version Control System
 path: /git
 ---
@@ -150,7 +150,7 @@ author: Forge Team
 email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
-branch: master
+ref: master
 tags: 
 path: /javaee
 ---
@@ -161,7 +161,7 @@ author: Forge Team
 email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
-branch: master
+ref: master
 tags: Maven, Build System
 path: /maven
 ---
@@ -172,7 +172,7 @@ author: Forge Team
 email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
-branch: master
+ref: master
 tags: Parsers, Java, Eclipse JDT, AST
 path: /parser-java
 ---
@@ -183,7 +183,7 @@ author: Forge Team
 email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
-branch: master
+ref: master
 tags: Parsers, JSON, JSR-353
 path: /parser-json
 ---
@@ -194,7 +194,7 @@ author: Forge Team
 email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
-branch: master
+ref: master
 tags: Parsers, XML
 path: /parser-xml
 ---
@@ -205,7 +205,7 @@ author: Forge Team
 email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
-branch: master
+ref: master
 tags: Projects
 path: /projects
 ---
@@ -216,7 +216,7 @@ author: Forge Team
 email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
-branch: master
+ref: master
 tags: Resoruces, VFS, Virtual File System
 path: /resources
 ---
@@ -227,7 +227,7 @@ author: Forge Team
 email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
-branch: master
+ref: master
 tags: Shell, UIProvider, CLI, Terminal
 path: /shell
 ---
@@ -238,7 +238,7 @@ author: Forge Team
 email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
-branch: master
+ref: master
 tags: Templates, Freemarker, Velocity
 path: /templates
 ---
@@ -249,7 +249,7 @@ author: Forge Team
 email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
-branch: master
+ref: master
 tags: Text Manipulation
 path: /text
 ---
