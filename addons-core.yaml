@@ -5,7 +5,7 @@ author: Lincoln Baxter, III
 email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/addon-mail.git
-branch: master
+ref: master
 tags: Email, Client, SMTP
 logo: http://9to5mac.files.wordpress.com/2013/06/mail.png?w=50
 ---
@@ -16,7 +16,7 @@ author: Adam Wyluda
 email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/addon-gradle.git
-branch: master
+ref: master
 tags: Gradle, Build System
 ---
 id: org.jboss.forge.addon:angularjs
@@ -26,7 +26,7 @@ author: Vineet Reynolds
 email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/angularjs-addon.git
-branch: master
+ref: master
 tags: AngularJS, Scaffold, HTML5, REST
 logo: https://pbs.twimg.com/profile_images/2149314222/square.png
 ---
