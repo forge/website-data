@@ -58,4 +58,5 @@ website: https://github.com/gastaldi/twitter-addon
 repo: https://github.com/gastaldi/twitter-addon.git
 ref: master
 tags: Twitter
+logo: https://abs.twimg.com/a/1403183846/images/oauth_application.png
 ---
