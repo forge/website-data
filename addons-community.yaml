@@ -49,3 +49,13 @@ repo: https://github.com/javaee-samples/javaee-samples-forge-addon.git
 ref: master
 tags: Sample, Example, Batch, CDI, Concurrency, EJB, EL, JACC, JASPIC, JavaMail, JAX-RS, JAX-WS, JCA, JMS, JPA, JSF, JSON, JTA, Servlet, Validation, WebSocket
 ---
+id: org.george.twitter:twitter
+name: Twitter
+description: Setup a Twitter account and tweet away!
+author: George Gastaldi
+email: gegastaldi@gmail.com
+website: https://github.com/gastaldi/twitter-addon
+repo: https://github.com/gastaldi/twitter-addon.git
+ref: master
+tags: Twitter
+---
