@@ -14,3 +14,11 @@ path: /get_started/Samples.asciidoc
 author: Antonio Goncalves
 email: antonio.goncalves@gmail.com
 ---
+title: Contribute Code
+summary: Learn how to contribute to Forge with code 
+repo: https://github.com/forge/core.git
+ref: master
+path: /CONTRIBUTING.asciidoc
+author: Forge Team
+email: forge@redhat.com
+---
