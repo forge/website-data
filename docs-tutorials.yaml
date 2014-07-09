@@ -22,8 +22,8 @@ path: /get_started/Writing-basic-java-ee-rest-app.asciidoc
 author: Antonio Goncalves
 email: antonio.goncalves@gmail.com
 ---
-title: How to get your Addon listed in the Forge website
-summary: Learn how to get your addon listed in the Forge website.
+title: Share your Addon on the Forge website
+summary: Forge was designed to be extended, why not share your creation with the world?
 repo: https://github.com/forge/docs.git
 ref: master
 path: /tutorials/How-to-get-your-addon-listed.asciidoc
