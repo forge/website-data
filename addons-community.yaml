@@ -61,7 +61,7 @@ tags: Twitter
 logo: https://abs.twimg.com/a/1403183846/images/oauth_application.png
 ---
 ---
-id: org.apache.deltaspike:deltaspike
+id: org.jboss.forge.addon.deltaspike:addon-deltaspike
 name: DeltaSpike
 description: Setups DeltaSpike Core in your project and its submodules
 author: Rafael Benevides
