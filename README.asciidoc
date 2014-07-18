@@ -2,7 +2,8 @@
 
 
 YAML files with the data for the JBoss Forge website
- 	
+
+* metadata.yaml: Metadata information for the website. 	
 * addons-community.yaml: Community Add-ons index (Available at http://forge.jboss.org/addons)
 * addons-core.yaml: Core Add-ons index (Available at http://forge.jboss.org/addons)	
 * docs-advanced.yaml: Advanced Documentation index (Available at http://forge.jboss.org/documentation)
