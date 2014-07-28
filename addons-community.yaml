@@ -29,7 +29,7 @@ ref: master
 tags: Atlassian, JIRA
 logo: https://c2.staticflickr.com/4/3234/2742514705_fe8fd07b14.jpg
 ---
-id: org.jboss.forge.addon:confluence
+id: org.bsc.maven:confluence-forge-plugin
 name: Confluence
 description: Publish/Download Document to/from Confluence (using Maven)
 author: Bartolomeo  Sorrentino
