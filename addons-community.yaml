@@ -60,7 +60,6 @@ ref: master
 tags: Twitter
 logo: https://abs.twimg.com/a/1403183846/images/oauth_application.png
 ---
----
 id: org.jboss.forge.addon.deltaspike:addon-deltaspike
 name: DeltaSpike
 description: Setups DeltaSpike Core in your project and its submodules
@@ -71,4 +70,14 @@ repo: https://github.com/rafabene/addon-deltaspike.git
 ref: master
 tags: Deltaspike
 logo: http://deltaspike.apache.org/resources/images/logos/logo.png
+---
+id: org.picketlink.tools.forge:picketlink-forge-addon
+name: PicketLink
+description: The picketlink-forge-addon enables security to your project by providing configuration options to quickly setup Authentication, Authorization and Identity Management to your project
+author: PicketLink Team
+email: security-dev@lists.jboss.org
+website: http://picketlink.org/
+repo: https://github.com/picketlink/picketlink-forge-addon.git
+ref: master
+tags: PicketLink
 ---
