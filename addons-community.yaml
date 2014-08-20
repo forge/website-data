@@ -28,6 +28,15 @@ repo: https://github.com/gastaldi/addon-jira.git
 branch: master
 tags: Atlassian, JIRA
 ---
-
+id: org.bsc:dynjs-addon
+name: DynJS
+description: Develop a JBoss Forge Addon using Javascript
+author: Bartolomeo Sorrentino
+email: bartolomeo.sorrentino@gmail.com
+website: https://github.com/bsorrentino/forge-addon/tree/master/dynjs-addon
+repo: https://github.com/bsorrentino/forge-addon.git
+ref: master
+tags: javascript
+---
 
 
