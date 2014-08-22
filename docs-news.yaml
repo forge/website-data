@@ -1,0 +1,45 @@
+title : Forge 2.8.0.Final (Boilerplate) is here
+summary: JBoss Forge 2.8.0.Final is now available. Grab it while it is hot!
+date: 2014-08-18 10:00:00 -3
+repo: https://github.com/forge/docs.git
+ref: master
+path: /news/2014-08-18-forge-2.8.0.final.asciidoc
+author: Forge Team
+email: forge-dev@lists.jboss.org
+---
+title : Forge 2.7.2.Final (Steamed) is here
+summary: JBoss Forge 2.7.2.Final is now available. Grab it while it is hot!
+date: 2014-07-22 10:00:00 -3
+repo: https://github.com/forge/docs.git
+ref: master
+path: /news/2014-07-22-forge-2.7.2.final.asciidoc
+author: Forge Team
+email: forge-dev@lists.jboss.org
+---
+title : Forge 2.7.1.Final (Cup) is here
+summary: JBoss Forge 2.7.1.Final is now available. Grab it while it is hot!
+date: 2014-07-17 14:00:00 -3
+repo: https://github.com/forge/docs.git
+ref: master
+path: /news/2014-07-17-forge-2.7.1.final.asciidoc
+author: Forge Team
+email: forge-dev@lists.jboss.org
+---
+title : Forge 2.7.0.Final (Stoked) is here
+summary: JBoss Forge 2.7.0.Final is now available. Grab it while it is hot!
+date: 2014-07-03 14:00:00 -3
+repo: https://github.com/forge/docs.git
+ref: master
+path: /news/2014-07-03-forge-2.7.0.final.asciidoc
+author: Forge Team
+email: forge-dev@lists.jboss.org
+---
+title : We have a new website
+summary: The JBoss Forge website is being upgraded to provide easier access to documentation, simpler ways to find addons, and better tutorials and quickstarts.
+date: 2014-06-13 14:00:00 -3
+repo: https://github.com/forge/docs.git
+ref: master
+path: /news/2014-06-13-website.asciidoc
+author: Forge Team
+email: forge-dev@lists.jboss.org
+---

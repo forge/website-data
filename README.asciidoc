@@ -1,4 +1,12 @@
-addon-repository
-================
+== website-data
 
-Repository for Forge 2.x+ Addons
+
+YAML files with the data for the JBoss Forge website
+
+* metadata.yaml: Metadata information for the website. 	
+* addons-community.yaml: Community Add-ons index (Available at http://forge.jboss.org/addons)
+* addons-core.yaml: Core Add-ons index (Available at http://forge.jboss.org/addons)	
+* docs-advanced.yaml: Advanced Documentation index (Available at http://forge.jboss.org/documentation)
+* docs-getstarted.yaml: Get Started index (Available at http://forge.jboss.org/documentation)
+* docs-news.yaml: News index (Available at http://forge.jboss.org/news)
+* docs-tutorials.yaml: Tutorials index (Available at http://forge.jboss.org/documentation)

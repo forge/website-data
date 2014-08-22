@@ -5,17 +5,17 @@ author: Jérémie Lagarde
 email: jer@printstacktrace.org
 website: http://printstacktrace.org
 repo: https://github.com/jerr/as-forge-addon.git
-branch: master
+ref: forge2
 tags: JBoss, Application Server, Wildfly, EAP, Deploy
 ---
 id: org.jboss.forge.addon:portlet
 name: Portlet
-description: Supports Portlets 2.0 
+description: Supports Portlets 2.0
 author: Jérémie Lagarde
 email: jer@printstacktrace.org
 website: http://printstacktrace.org
 repo: https://github.com/jerr/portlet-forge-addon.git
-branch: forge2
+ref: forge2
 tags: JBoss, Portlet
 ---
 id: org.jboss.forge.addon:jira
@@ -25,18 +25,69 @@ author: George Gastaldi
 email: gegastaldi@gmail.com
 website: https://github.com/gastaldi/addon-jira
 repo: https://github.com/gastaldi/addon-jira.git
-branch: master
+ref: master
 tags: Atlassian, JIRA
+logo: https://c2.staticflickr.com/4/3234/2742514705_fe8fd07b14.jpg
+---
+id: org.bsc.maven:confluence-forge-plugin
+name: Confluence
+description: Publish/Download Document to/from Confluence (using Maven)
+author: Bartolomeo  Sorrentino
+email: bartolomeo.sorrentino@gmail.com
+website: https://code.google.com/p/maven-confluence-plugin/
+repo: https://github.com/bsorrentino/maven-confluence-reporting-plugin.git
+ref: v4
+tags: Atlassian, Confluence, Maven, Wiki
+---
+id: org.javaee-samples:javaee-samples-forge-addon
+name: JavaEE Samples
+description: Search for JavaEE Samples
+author: Aslak Knutsen
+email: aslak@4fs.no
+website: http://javaee-samples.github.io/
+repo: https://github.com/javaee-samples/javaee-samples-forge-addon.git
+ref: master
+tags: Sample, Example, Batch, CDI, Concurrency, EJB, EL, JACC, JASPIC, JavaMail, JAX-RS, JAX-WS, JCA, JMS, JPA, JSF, JSON, JTA, Servlet, Validation, WebSocket
+---
+id: org.george.twitter:twitter
+name: Twitter
+description: Setup a Twitter account and tweet away!
+author: George Gastaldi
+email: gegastaldi@gmail.com
+website: https://github.com/gastaldi/twitter-addon
+repo: https://github.com/gastaldi/twitter-addon.git
+ref: master
+tags: Twitter
+logo: https://abs.twimg.com/a/1403183846/images/oauth_application.png
+---
+id: org.jboss.forge.addon.deltaspike:addon-deltaspike
+name: DeltaSpike
+description: Setups DeltaSpike Core in your project and its submodules
+author: Rafael Benevides
+email: rbenevides@redhat.com
+website: https://github.com/rafabene/addon-deltaspike
+repo: https://github.com/rafabene/addon-deltaspike.git
+ref: master
+tags: Deltaspike
+logo: http://deltaspike.apache.org/resources/images/logos/logo.png
+---
+id: org.picketlink.tools.forge:picketlink-forge-addon
+name: PicketLink
+description: The picketlink-forge-addon enables security to your project by providing configuration options to quickly setup Authentication, Authorization and Identity Management to your project
+author: PicketLink Team
+email: security-dev@lists.jboss.org
+website: http://picketlink.org/
+repo: https://github.com/picketlink/picketlink-forge-addon.git
+ref: master
+tags: PicketLink
 ---
 id: org.bsc:dynjs-addon
 name: DynJS
 description: Develop a JBoss Forge Addon using Javascript
 author: Bartolomeo Sorrentino
 email: bartolomeo.sorrentino@gmail.com
-website: https://github.com/bsorrentino/forge-addon/tree/master/dynjs-addon
-repo: https://github.com/bsorrentino/forge-addon.git
+website: https://github.com/bsorrentino/forge-dynjs-addon
+repo: https://github.com/bsorrentino/forge-dynjs-addon.git
 ref: master
 tags: javascript
 ---
-
-
