@@ -80,6 +80,7 @@ website: http://picketlink.org/
 repo: https://github.com/picketlink/picketlink-forge-addon.git
 ref: master
 tags: PicketLink
+logo: http://static.jboss.org/picketlink/images/picketlink_200x150.png
 ---
 id: org.bsc:dynjs-addon
 name: DynJS
