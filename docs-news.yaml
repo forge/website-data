@@ -1,3 +1,12 @@
+title : Forge 2.9.2.Final (Gauge Meter) is here
+summary: JBoss Forge 2.9.2.Final is now available. Grab it while it is hot!
+date: 2014-09-08 18:00:00 -3
+repo: https://github.com/forge/docs.git
+ref: master
+path: /news/2014-09-08-forge-2.9.2.final.asciidoc
+author: Forge Team
+email: forge-dev@lists.jboss.org
+---
 title : Forge 2.8.1.Final (Bronzed) is here
 summary: JBoss Forge 2.8.1.Final is now available. Grab it while it is hot!
 date: 2014-08-29 10:00:00 -3
