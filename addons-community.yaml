@@ -92,3 +92,14 @@ repo: https://github.com/bsorrentino/forge-dynjs-addon.git
 ref: master
 tags: javascript
 ---
+id: org.walkmod:forge-walkmod-plugin
+name: Walkmod
+description: Apply and share coding conventions
+author: Raquel Pau
+email: raquelpau@gmail.com
+website: http://www.walkmod.com
+repo: https://github.com/rpau/forge-walkmod-plugin.git
+ref: master
+tags: java, code conventions, walkmod, conventions
+logo: http://walkmod.com/img/heavy-tree.jpg
+---
