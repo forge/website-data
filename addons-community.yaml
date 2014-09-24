@@ -103,3 +103,15 @@ ref: master
 tags: java, code conventions, walkmod, conventions
 logo: http://walkmod.com/img/heavy-tree.jpg
 ---
+---
+id: org.arquillian.forge:arquillian-addon
+name: Arquillian
+description: Set up and configure Arquillian for real java testing against live containers and environments
+author: Aslak Knutsen
+email: aslak.tux@gmail.com
+website: http://arquillian.org
+repo: https://github.com/rpau/forge-walkmod-plugin.git
+ref: forge2
+tags: arquillian, junit, testng, testing
+logo: http://arquillian.org/images/arquillian_crown_icon_glossy_256.png
+---
