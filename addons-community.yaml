@@ -110,7 +110,7 @@ description: Set up and configure Arquillian for real java testing against live 
 author: Aslak Knutsen
 email: aslak.tux@gmail.com
 website: http://arquillian.org
-repo: https://github.com/rpau/forge-walkmod-plugin.git
+repo: https://github.com/forge/plugin-arquillian.git
 ref: forge2
 tags: arquillian, junit, testng, testing
 logo: http://arquillian.org/images/arquillian_crown_icon_glossy_256.png
