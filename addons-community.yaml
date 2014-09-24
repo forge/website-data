@@ -103,7 +103,6 @@ ref: master
 tags: java, code conventions, walkmod, conventions
 logo: http://walkmod.com/img/heavy-tree.jpg
 ---
----
 id: org.arquillian.forge:arquillian-addon
 name: Arquillian
 description: Set up and configure Arquillian for real java testing against live containers and environments
