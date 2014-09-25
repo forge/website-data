@@ -110,7 +110,7 @@ author: Aslak Knutsen
 email: aslak.tux@gmail.com
 website: http://arquillian.org
 repo: https://github.com/forge/addon-arquillian.git
-ref: forge2
+ref: master
 tags: arquillian, junit, testng, testing
 logo: http://arquillian.org/images/arquillian_crown_icon_glossy_256.png
 ---
