@@ -114,3 +114,16 @@ ref: master
 tags: arquillian, junit, testng, testing
 logo: http://arquillian.org/images/arquillian_crown_icon_glossy_256.png
 ---
+id: org.jboss.errai.forge:errai-forge-addon
+name: Errai
+description: Set up and configure the Errai framework for real java rapid application development with Java EE technologies running in the browser.
+author: Max Barkley, The Errai Team
+email: errai-dev@lists.jboss.org
+website: http://arquillian.org
+repo: https://github.com/errai/errai.git
+path: errai-forge-addon
+ref: master
+tags: errai, html5, javascript, css, templating, javaee, cordova, mobile, camera, phone
+logo: http://erraiframework.org/images/errai_logo.png
+
+---
