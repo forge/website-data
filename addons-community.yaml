@@ -126,3 +126,14 @@ ref: master
 tags: errai, html5, javascript, css, templating, javaee, cordova, mobile, camera, phone
 logo: http://erraiframework.org/images/errai_logo.png
 ---
+id: org.jboss.forge.addon:mail
+name: Mail
+description: Simple email client for Forge
+author: Lincoln Baxter, III
+email: forge-dev@lists.jboss.org
+website: http://forge.jboss.org
+repo: https://github.com/forge/addon-mail.git
+ref: master
+tags: Email, Client, SMTPt
+logo: http://9to5mac.files.wordpress.com/2013/06/mail.png?w=50
+---
