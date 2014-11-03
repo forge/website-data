@@ -137,3 +137,14 @@ ref: master
 tags: Email, Client, SMTPt
 logo: http://9to5mac.files.wordpress.com/2013/06/mail.png?w=50
 ---
+id: org.richfaces.forge:richfaces-forge-addon
+name: RichFaces
+description: Setup RichFaces in your project
+author: Michal Petrov
+email: richfaces-dev@lists.jboss.org
+website: http://richfaces.jboss.org
+repo: https://github.com/richfaces/richfaces-forge-plugin.git
+ref: master
+tags: RichFaces, JSF
+logo: http://static.jboss.org/richfaces/images/richfaces_200x150.png
+---
