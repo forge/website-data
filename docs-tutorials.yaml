@@ -1,3 +1,12 @@
+title: Hands-on Lab
+summary: This material helps you to setup a hands on lab on JBoss Forge. You will learn how to set it up, use it, and develop addons.
+repo: https://github.com/forge/docs.git
+ref: master
+path: /tutorials/forge-hol/docs/forge-hol.adoc
+author: Forge Community
+email: forge@redhat.com
+---
+
 title: Write a Java EE Web Application - Advanced
 summary: Use Forge to create a entire Java EE Web application.
 repo: https://github.com/forge/docs.git
