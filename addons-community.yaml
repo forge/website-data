@@ -1,3 +1,13 @@
+id: me.gastaldi.forge:reflections
+name: Reflection
+description: Enables the usage of the Reflections library as project facets for Java runtime metadata analysis
+author: George Gastaldi
+email: gegastaldi@gmail.com
+website: https://github.com/gastaldi/reflections-addon
+repo: https://github.com/gastaldi/reflections-addon.git
+ref: master
+tags: Reflections, metadata, analysis
+---
 id: org.jboss.forge.addon:as
 name: WildFly AS
 description: Deployment and control for JBoss Wildfly and EAP
