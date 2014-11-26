@@ -1,5 +1,5 @@
 id: me.gastaldi.forge:reflections
-name: Reflection
+name: Reflections
 description: Enables the usage of the Reflections library as project facets for Java runtime metadata analysis
 author: George Gastaldi
 email: gegastaldi@gmail.com
