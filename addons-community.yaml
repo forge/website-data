@@ -158,3 +158,14 @@ ref: master
 tags: RichFaces, JSF
 logo: http://static.jboss.org/richfaces/images/richfaces_200x150.png
 ---
+id: org.jboss.aerogear:unifiedpush
+name: UnifiedPush 
+description: Setup UnifiedPush Java Sender in your project
+author: Sébastien Blanc
+email: aerogear-dev@lists.jboss.org
+website: http://aerogear.org
+repo: https://github.com/aerogear/unifiedpush-forge-addon
+ref: master
+tags: AeroGear, Mobile, UnifiedPush
+logo: https://avatars3.githubusercontent.com/u/954205?v=3&s=200
+---
