@@ -1,3 +1,12 @@
+title : Forge 2.13.0.Final (Flange) is here
+summary: JBoss Forge 2.13.0.Final is now available. Grab it while it is hot!
+date: 2014-12-15 18:00:00 -3
+repo: https://github.com/forge/docs.git
+ref: master
+path: /news/2014-12-15-forge-2.13.0.final.asciidoc
+author: Forge Team
+email: forge-dev@lists.jboss.org
+---
 title : Forge 2.12.3.Final (Needles) is here
 summary: JBoss Forge 2.12.3.Final is now available. Grab it while it is hot!
 date: 2014-12-01 19:00:00 -3
