@@ -1,3 +1,11 @@
+title: FAQ
+summary: Some frequent answered questions from our users
+repo: https://github.com/forge/docs.git
+ref: master
+path: /get_started/Faq.asciidoc
+author: George Gastaldi
+email: george@gastaldi.net.br
+---
 title: Installation
 summary: Get Forge installed in your native terminal.
 repo: https://github.com/forge/docs.git
