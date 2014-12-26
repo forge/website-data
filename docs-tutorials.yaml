@@ -5,6 +5,7 @@ ref: master
 path: /tutorials/forge-hol/docs/forge-hol.adoc
 author: Forge Community
 email: forge@redhat.com
+linkTransposition: /tutorials/forge-hol/docs/images
 ---
 title: Write a Java EE Web Application - Advanced
 summary: Use Forge to create a entire Java EE Web application.
