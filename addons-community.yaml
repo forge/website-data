@@ -169,3 +169,14 @@ ref: master
 tags: AeroGear, Mobile, UnifiedPush
 logo: https://avatars3.githubusercontent.com/u/954205?v=3&s=200
 ---
+id: org.primefaces.forge:primefaces-forge-addon
+name: PrimeFaces
+description: Setup PrimeFaces in your project
+author: Richard Hands (derived from work by Michal Petrov)
+email: richardhands@googlemail.com
+website: http://primefaces.org
+repo: https://github.com/richardhands/primefaces-forge-addon.git
+ref: master
+tags: PrimeFaces, JSF
+logo: http://primefaces.org/images/logo.png
+---
