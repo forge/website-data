@@ -1,3 +1,12 @@
+title : NetBeans JBoss Forge Plugin 
+summary: JBoss Forge is now available for NetBeans!
+date: 2015-02-11 13:00:00 -3
+repo: https://github.com/forge/docs.git
+ref: master
+path: /news/2015-02-11-netbeans.asciidoc
+author: Forge Team
+email: forge-dev@lists.jboss.org
+---
 title : Forge 2.14.0.Final (Sword) is here
 summary: JBoss Forge 2.14.0.Final is now available. Grab it while it is hot!
 date: 2015-01-30 16:00:00 -3
