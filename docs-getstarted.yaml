@@ -1,3 +1,11 @@
+title: Forge shell with Cygwin + Wildfly
+summary: Running Forge shell with Cygwin and deploying the generated app in Wildfly
+repo: https://github.com/forge/docs.git
+ref: master
+path: /get_started/Cygwin_Manual.asciidoc
+author: Victor Polo de Gyves
+email: degyves@gmail.com
+---
 title: FAQ
 summary: Some frequent answered questions from our users
 repo: https://github.com/forge/docs.git
