@@ -1,4 +1,4 @@
-title: Forge shell with Cygwin + Wildfly
+title: Forge shell with Cygwin and Wildfly
 summary: Running Forge shell with Cygwin and deploying the generated app in Wildfly
 repo: https://github.com/forge/docs.git
 ref: master
