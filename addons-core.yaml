@@ -19,9 +19,6 @@ ref: master
 tags: AngularJS, Scaffold, HTML5, REST
 logo: https://pbs.twimg.com/profile_images/2149314222/square.png
 ---
-
-
-
 id: org.jboss.forge.addon:ui
 name: UI
 description: Provides UICommands, Wizards, and acts as an intermediate between Furnace and the CLI or IDE - a User Interface abstraction layer
