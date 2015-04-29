@@ -1,6 +1,5 @@
 == website-data
 
-
 YAML files with the data for the JBoss Forge website
 
 * metadata.yaml: Metadata information for the website. 	
