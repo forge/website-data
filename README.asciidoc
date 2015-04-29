@@ -1,4 +1,4 @@
-== website-data
+== Data for the forge.jboss.org website
 
 YAML files with the data for the JBoss Forge website
 
