@@ -1,3 +1,13 @@
+title : Forge 2.16.1.Final (Club) is here
+summary: JBoss Forge 2.16.1.Final is now available. Grab it while it is hot!
+date: 2015-05-19 14:00:00 -3
+repo: https://github.com/forge/docs.git
+ref: master
+path: /news/2015-05-19-forge-2.16.1.final.asciidoc
+author: Forge Team
+email: forge-dev@lists.jboss.org
+tags: release announcement
+---
 title : Forge 2.16.0.Final (Spear) is here
 summary: JBoss Forge 2.16.0.Final is now available. Grab it while it is hot!
 date: 2015-04-16 16:00:00 -3
