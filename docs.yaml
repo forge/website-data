@@ -1,0 +1,144 @@
+level: Advanced
+group: Core
+type: Get Started
+title: Develop an Addon
+summary: Learn how to build a Forge addon and share it.
+repo: https://github.com/forge/docs.git
+ref: master
+path: /get_started/Develop-your-addon.asciidoc
+author: Lincoln Baxter, III
+email: lincolnbaxter@gmail.com
+---
+level: Advanced
+group: Core
+type: Tutorial
+title: Run Forge Embedded
+summary: Want to run Forge addons in an embedded application? Learn to use Furnace - The modular runtime container behind Forge.
+repo: https://github.com/forge/docs.git
+ref: master
+path: tutorials/Running-Standalone-Furnace.asciidoc
+author: George Gastaldi
+email: ggastald@redhat.com
+---
+level: Advanced
+group: Core
+type: Blog Post
+title: Test your Addon
+summary: Learn how to write real tests for your Forge Addon.
+repo: https://github.com/forge/docs.git
+ref: master
+path: /advanced/Testing-your-addons.asciidoc
+author: Vineet Reynolds
+email: vineetr@redhat.com
+---
+level: Intermediate
+group: Community
+type: Get Started
+title: Forge shell with Cygwin and Wildfly
+summary: Running Forge shell with Cygwin and deploying the generated app in Wildfly
+repo: https://github.com/forge/docs.git
+ref: master
+path: /get_started/Cygwin_Manual.asciidoc
+author: Victor Polo de Gyves
+email: degyves@gmail.com
+---
+level: Beginner
+group: Core
+type: Get Started
+title: FAQ
+summary: Some frequent answered questions from our users
+repo: https://github.com/forge/docs.git
+ref: master
+path: /get_started/Faq.asciidoc
+author: George Gastaldi
+email: george@gastaldi.net.br
+---
+level: Beginner
+group: Community
+type: Get Started
+title: Installation
+summary: Get Forge installed in your native terminal.
+repo: https://github.com/forge/docs.git
+ref: master
+path: /get_started/Installation.asciidoc
+author: Antonio Goncalves
+email: antonio.goncalves@gmail.com
+---
+level: Beginner
+group: Community
+type: Get Started
+title: Sample Forge usage tasks
+summary: Use Forge to perform simple tasks on, and generate, Java EE code.
+repo: https://github.com/forge/docs.git
+ref: master
+path: /get_started/Samples.asciidoc
+author: Antonio Goncalves
+email: antonio.goncalves@gmail.com
+---
+level: Advanced
+group: Core
+type: Blog Post
+title: Contribute Code
+summary: Learn how to contribute to Forge with code 
+repo: https://github.com/forge/core.git
+ref: master
+path: /CONTRIBUTING.asciidoc
+author: Forge Team
+email: forge@redhat.com
+---
+level: Beginner
+group: Community
+type: Tutorial
+title: Hands-on Lab
+summary: This material helps you to setup a hands on lab on JBoss Forge. You will learn how to set it up, use it, and develop addons.
+repo: https://github.com/forge/docs.git
+ref: master
+path: /tutorials/forge-hol/docs/forge-hol.adoc
+author: Forge Community
+email: forge@redhat.com
+linkTransposition: /tutorials/forge-hol/docs/
+---
+level: Advanced
+group: Community
+type: Get Started
+title: Write a Java EE Web Application - Advanced
+summary: Use Forge to create a entire Java EE Web application.
+repo: https://github.com/forge/docs.git
+ref: master
+path: /get_started/Writing-advanced-java-ee-web-app.asciidoc
+author: Antonio Goncalves
+email: antonio.goncalves@gmail.com
+---
+level: Beginner
+group: Community
+type: Get Started
+title: Write a Java EE Web Application - Basic
+summary: Use Forge to create a basic Java EE Web application.
+repo: https://github.com/forge/docs.git
+ref: master
+path: /get_started/Writing-basic-java-ee-web-app.asciidoc
+author: Antonio Goncalves
+email: antonio.goncalves@gmail.com
+---
+level: Beginner
+group: Community
+type: Get Started
+title: Write a Java EE REST Application - Basic
+summary: Use Forge to create a basic Java EE REST application.
+repo: https://github.com/forge/docs.git
+ref: master
+path: /get_started/Writing-basic-java-ee-rest-app.asciidoc
+author: Antonio Goncalves
+email: antonio.goncalves@gmail.com
+---
+level: Advanced
+group: Core
+type: Tutorial
+title: Share your Addon on the Forge website
+summary: Forge was designed to be extended, why not share your creation with the world?
+repo: https://github.com/forge/docs.git
+ref: master
+path: /tutorials/How-to-get-your-addon-listed.asciidoc
+author: Forge Team
+email: forge@redhat.com
+---
