@@ -169,3 +169,13 @@ ref: master
 tags: PrimeFaces, JSF
 logo: http://primefaces.org/images/logo.png
 ---
+id: org.assertj.forge:assertj-forge-addon
+name: AssertJ Assertions Generator
+description: Setup AssertJ Assertions Generator in your project
+author: Alexander Bischof
+email: alexanderxbischof@gmail.com
+website: http://joel-costigliola.github.io/assertj/assertj-assertions-generator.html
+repo: https://github.com/AlexBischof/assertj-forge-addon.git
+ref: master
+tags: AssertJ, testing
+logo: http://joel-costigliola.github.io/assertj/favicon.png
