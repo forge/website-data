@@ -143,7 +143,7 @@ email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/addon-mail.git
 ref: master
-tags: Email, Client, SMTPt
+tags: Email, Client, SMTP
 logo: http://9to5mac.files.wordpress.com/2013/06/mail.png?w=50
 ---
 id: org.richfaces.forge:richfaces-forge-addon
