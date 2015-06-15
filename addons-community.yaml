@@ -189,3 +189,14 @@ repo: https://github.com/AlexBischof/assertj-forge-addon.git
 ref: master
 tags: AssertJ, testing
 logo: http://joel-costigliola.github.io/assertj/favicon.png
+---
+id: org.wadael.forge.metaforgewizard:MetaForgeWizard
+name: Meta Forge Wizard
+description: Addon, of type wizard, made to generate wizard-style addons.
+author: Jerome Baton
+email: wadael@gmail.com
+website: https://github.com/wadael/MetaForgeWizard
+repo: https://github.com/wadael/MetaForgeWizard.git
+ref: master
+tags: wizard, addon
+---
