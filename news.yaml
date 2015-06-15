@@ -3,7 +3,7 @@ summary: JBoss Forge 2.16.2.Final is now available. Grab it while it is hot!
 date: 2015-05-15 14:20:00 -3
 repo: https://github.com/forge/docs.git
 ref: master
-path: /news/2015-05-15-forge-2.16.2.final.asciidoc
+path: /news/2015-06-15-forge-2.16.2.final.asciidoc
 author: Forge Team
 email: forge-dev@lists.jboss.org
 tags: release announcement
