@@ -1,3 +1,13 @@
+id: org.jboss.forge.addon:asciidoctorj
+name: AsciidoctorJ
+description: AsciidoctorJ is the official library for running Asciidoctor on the JVM. Support for AsciidocFileResource.
+author: George Gastaldi
+email: forge-dev@lists.jboss.org
+website: http://asciidoctor.org/
+repo: https://github.com/forge/asciidoctorj-addon.git
+ref: master
+tags: Asciidoc 
+---
 id: org.jboss.forge.addon:wildfly-swarm
 name: Wildfly Swarm
 description: WildFly Swarm is a new sidecar project to WildFly which helps you create self-contained Java microservices based upon the normal WildFly application-server.
