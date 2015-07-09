@@ -1,8 +1,6 @@
 id: org.jboss.forge.addon:gradle
 name: Gradle
 description: Gradle build system support for Forge
-author: Adam Wyluda
-email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/addon-gradle.git
 ref: master
@@ -12,8 +10,6 @@ authorId: adamwy
 id: org.jboss.forge.addon:angularjs
 name: AngularJS
 description: AngularJS Scaffold Implementation
-author: Vineet Reynolds
-email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/angularjs-addon.git
 ref: master
@@ -24,8 +20,6 @@ authorId: vineetreynolds
 id: org.jboss.forge.addon:ui
 name: UI
 description: Provides UICommands, Wizards, and acts as an intermediate between Furnace and the CLI or IDE - a User Interface abstraction layer
-author: Forge Team
-email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
 ref: master
@@ -36,8 +30,6 @@ authorId: forge
 id: org.jboss.forge.addon:addon-manager
 name: Addon Manager
 description: Responsible for addon installation to and removal from addon repositories.
-author: Forge Team
-email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
 ref: master
@@ -48,8 +40,6 @@ authorId: forge
 id: org.jboss.forge.addon:addons
 name: Addon Development (Addons)
 description: Provides project-types and features for manipulating and developing Forge addon projects.
-author: Forge Team
-email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
 ref: master
@@ -60,8 +50,6 @@ authorId: forge
 id: org.jboss.forge.addon:configuration
 name: Configuration
 description: Provides a simple configuration abstraction layer for storing persistent user and project configuration.
-author: Forge Team
-email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
 ref: master
@@ -72,8 +60,6 @@ authorId: forge
 id: org.jboss.forge.addon:convert
 name: Convert
 description: Provides Conversion APIs, Utilities, and extension points for registering new Converter instances.
-author: Forge Team
-email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
 ref: master
@@ -84,8 +70,6 @@ authorId: forge
 id: org.jboss.forge.addon:dependencies
 name: Dependencies
 description: Provides APIs and services for interacting with artifact repositories, artifact dependencies, and dependency metadata.
-author: Forge Team
-email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
 ref: master
@@ -96,8 +80,6 @@ authorId: forge
 id: org.jboss.forge.addon:dev-tools-java
 name: Dev Tools (Java)
 description: Provides development tools for the Java Programming Language
-author: Forge Team
-email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
 ref: master
@@ -108,8 +90,6 @@ authorId: forge
 id: org.jboss.forge.addon:environment
 name: Environment
 description: Provides a non-persistent runtime configuration where variables can be accessed in a type-safe manner.
-author: Forge Team
-email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
 ref: master
@@ -120,8 +100,6 @@ authorId: forge
 id: org.jboss.forge.addon:facets
 name: Facets
 description: Enables modularization and extension of core functionality by creating standard model integration points, installation, and removal APIs.
-author: Forge Team
-email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
 ref: master
@@ -132,8 +110,6 @@ authorId: forge
 id: org.jboss.forge.addon:git-tools
 name: Git Tools
 description:  Provides UI commands for creating and cloning GIT repositories, as well as APIs for programatically interacting with Git on the filesystem.
-author: Forge Team
-email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
 ref: master
@@ -144,8 +120,6 @@ authorId: forge
 id: org.jboss.forge.addon:javaee
 name: Java EE
 description: Provides commands for working with Java EE projects, and enables programatic manipulation of Java EE artifacts (classes, descriptors)
-author: Forge Team
-email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
 ref: master
@@ -156,8 +130,6 @@ authorId: forge
 id: org.jboss.forge.addon:maven
 name: Maven
 description: Provides features for interacting with Maven POMs, settings, and repositories. Also implements extension points in other addons to enable them to operate on Maven projects.
-author: Forge Team
-email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
 ref: master
@@ -168,8 +140,6 @@ authorId: forge
 id: org.jboss.forge.addon:parser-java
 name: Parser - Java
 description: Provides APIs and services for parsing Java types, including classes, enums, interfaces, annotations, and package-info types.
-author: Forge Team
-email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
 ref: master
@@ -180,8 +150,6 @@ authorId: forge
 id: org.jboss.forge.addon:parser-json
 name: Parser - JSON
 description: Provides support for JSR-353, programmatic parsing and generation of JSON 
-author: Forge Team
-email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
 ref: master
@@ -192,8 +160,6 @@ authorId: forge
 id: org.jboss.forge.addon:parser-xml
 name: Parser - XML
 description: Provides support for parsing XML using the forge xml-parser project.
-author: Forge Team
-email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
 ref: master
@@ -204,8 +170,6 @@ authorId: forge
 id: org.jboss.forge.addon:projects
 name: Projects
 description: Provides project creation, modification, and comprehension APIs. Also provides integration points for build tools, dependency management systems, and source-file manipulation.
-author: Forge Team
-email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
 ref: master
@@ -216,8 +180,6 @@ authorId: forge
 id: org.jboss.forge.addon:resources
 name: Resources
 description: Provides APIs and services for interacting with real and virtual resources, typically for the purose of reading and manipulating files and other data-structures.
-author: Forge Team
-email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
 ref: master
@@ -228,8 +190,6 @@ authorId: forge
 id: org.jboss.forge.addon:rest-client
 name: REST Client
 description: Provides access to the JAX-RS 2.0 Client API
-author: Forge Team
-email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
 ref: master
@@ -240,8 +200,6 @@ authorId: forge
 id: org.jboss.forge.addon:shell
 name: Shell
 description: Provides a native terminal implementation of the Forge UI abstraction addon. Can be used to run UICommand and Wizard instances from other installed addons.
-author: Forge Team
-email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
 ref: master
@@ -252,8 +210,6 @@ authorId: forge
 id: org.jboss.forge.addon:templates
 name: Templates
 description: Provides template processing services and APIs. Supports Freemarker by default, with extension points for adding other template engines.
-author: Forge Team
-email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
 ref: master
@@ -264,8 +220,6 @@ authorId: forge
 id: org.jboss.forge.addon:text
 name: Text Utils
 description: Provides functionality to perform text-based transformations such as inflection of words or syntax highlighting.
-author: Forge Team
-email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/core.git
 ref: master
