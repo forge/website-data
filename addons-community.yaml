@@ -122,7 +122,7 @@ website: https://github.com/bsorrentino/forge-dynjs-addon
 repo: https://github.com/bsorrentino/forge-dynjs-addon.git
 ref: master
 tags: javascript
-author: 
+author:
 	name: bsorrentino
 	avatar_url: https://avatars1.githubusercontent.com/u/301596
 ---
@@ -134,7 +134,9 @@ repo: https://github.com/rpau/forge-walkmod-plugin.git
 ref: master
 tags: java, code conventions, walkmod, conventions
 logo: http://walkmod.com/img/heavy-tree.jpg
-authorId: rpau
+author:
+	name: Raquel Pau
+	avatar_url: https://avatars2.githubusercontent.com/u/1483433
 ---
 id: org.arquillian.forge:arquillian-addon
 name: Arquillian
