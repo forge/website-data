@@ -6,7 +6,7 @@ ref: master
 path: /news/2015-06-15-forge-2.16.2.final.asciidoc
 tags: release announcement
 author: 
-   name: Forge 
+   name: Forge Team
    avatar_url: https://avatars2.githubusercontent.com/u/711249 
 ---
 title : Forge 2.16.1.Final (Club) is here
@@ -17,7 +17,7 @@ ref: master
 path: /news/2015-05-19-forge-2.16.1.final.asciidoc
 tags: release announcement
 author: 
-   name: Forge 
+   name: Forge Team
    avatar_url: https://avatars2.githubusercontent.com/u/711249 
 ---
 title : Forge 2.16.0.Final (Spear) is here
@@ -28,7 +28,7 @@ ref: master
 path: /news/2015-04-15-forge-2.16.0.final.asciidoc
 tags: release announcement
 author: 
-   name: Forge 
+   name: Forge Team
    avatar_url: https://avatars2.githubusercontent.com/u/711249 
 ---
 title : Forge 2.15.2.Final (Morning Star) is here
@@ -39,7 +39,7 @@ ref: master
 path: /news/2015-03-19-forge-2.15.2.final.asciidoc
 tags: release announcement
 author: 
-   name: Forge 
+   name: Forge Team
    avatar_url: https://avatars2.githubusercontent.com/u/711249 
 ---
 title : Forge 2.15.0.Final (Shield) is here
@@ -50,7 +50,7 @@ ref: master
 path: /news/2015-03-04-forge-2.15.0.final.asciidoc
 tags: release announcement
 author: 
-   name: Forge 
+   name: Forge Team
    avatar_url: https://avatars2.githubusercontent.com/u/711249 
 ---
 title : NetBeans JBoss Forge Plugin 
@@ -61,7 +61,7 @@ ref: master
 path: /news/2015-02-11-netbeans.asciidoc
 tags: video, noteworthy
 author: 
-   name: Forge 
+   name: Forge Team
    avatar_url: https://avatars2.githubusercontent.com/u/711249 
 ---
 title : Forge 2.14.0.Final (Sword) is here
@@ -72,7 +72,7 @@ ref: master
 path: /news/2015-01-30-forge-2.14.0.final.asciidoc
 tags: release announcement
 author: 
-   name: Forge 
+   name: Forge Team
    avatar_url: https://avatars2.githubusercontent.com/u/711249 
 ---
 title : Forge 2.13.1.Final (Ingot) is here
@@ -83,7 +83,7 @@ ref: master
 path: /news/2015-01-15-forge-2.13.1.final.asciidoc
 tags: release announcement
 author: 
-   name: Forge 
+   name: Forge Team
    avatar_url: https://avatars2.githubusercontent.com/u/711249 
 ---
 title : Forge 2.13.0.Final (Flange) is here
@@ -94,7 +94,7 @@ ref: master
 path: /news/2014-12-15-forge-2.13.0.final.asciidoc
 tags: release announcement
 author: 
-   name: Forge 
+   name: Forge Team
    avatar_url: https://avatars2.githubusercontent.com/u/711249 
 ---
 title : Forge 2.12.3.Final (Needles) is here
@@ -105,7 +105,7 @@ ref: master
 path: /news/2014-12-01-forge-2.12.3.final.asciidoc
 tags: release announcement
 author: 
-   name: Forge 
+   name: Forge Team
    avatar_url: https://avatars2.githubusercontent.com/u/711249 
 ---
 title : Forge 2.12.2.Final (Pins) is here
@@ -116,7 +116,7 @@ ref: master
 path: /news/2014-11-07-forge-2.12.2.final.asciidoc
 tags: release announcement
 author: 
-   name: Forge 
+   name: Forge Team
    avatar_url: https://avatars2.githubusercontent.com/u/711249 
 ---
 title : Forge 2.12.0.Final (Hearth) is here
@@ -127,7 +127,7 @@ ref: master
 path: /news/2014-10-06-forge-2.12.0.final.asciidoc
 tags: release announcement
 author: 
-   name: Forge 
+   name: Forge Team
    avatar_url: https://avatars2.githubusercontent.com/u/711249 
 ---
 title : Forge 2.10.1.Final (Blazed) is here
@@ -138,7 +138,7 @@ ref: master
 path: /news/2014-09-12-forge-2.10.1.final.asciidoc
 tags: release announcement
 author: 
-   name: Forge 
+   name: Forge Team
    avatar_url: https://avatars2.githubusercontent.com/u/711249 
 ---
 title : Forge 2.9.2.Final (Gauge Meter) is here
@@ -149,7 +149,7 @@ ref: master
 path: /news/2014-09-08-forge-2.9.2.final.asciidoc
 tags: release announcement
 author: 
-   name: Forge 
+   name: Forge Team
    avatar_url: https://avatars2.githubusercontent.com/u/711249 
 ---
 title : Forge 2.8.1.Final (Bronzed) is here
@@ -160,7 +160,7 @@ ref: master
 path: /news/2014-08-29-forge-2.8.1.final.asciidoc
 tags: release announcement
 author: 
-   name: Forge 
+   name: Forge Team
    avatar_url: https://avatars2.githubusercontent.com/u/711249 
 ---
 title : Forge 2.8.0.Final (Boilerplate) is here
@@ -171,7 +171,7 @@ ref: master
 path: /news/2014-08-18-forge-2.8.0.final.asciidoc
 tags: release announcement
 author: 
-   name: Forge 
+   name: Forge Team
    avatar_url: https://avatars2.githubusercontent.com/u/711249 
 ---
 title : Forge 2.7.2.Final (Steamed) is here
@@ -182,7 +182,7 @@ ref: master
 path: /news/2014-07-22-forge-2.7.2.final.asciidoc
 tags: release announcement
 author: 
-   name: Forge 
+   name: Forge Team
    avatar_url: https://avatars2.githubusercontent.com/u/711249 
 ---
 title : Forge 2.7.1.Final (Cup) is here
@@ -193,7 +193,7 @@ ref: master
 path: /news/2014-07-17-forge-2.7.1.final.asciidoc
 tags: release announcement
 author: 
-   name: Forge 
+   name: Forge Team
    avatar_url: https://avatars2.githubusercontent.com/u/711249 
 ---
 title : Forge 2.7.0.Final (Stoked) is here
@@ -204,7 +204,7 @@ ref: master
 path: /news/2014-07-03-forge-2.7.0.final.asciidoc
 tags: release announcement
 author: 
-   name: Forge 
+   name: Forge Team
    avatar_url: https://avatars2.githubusercontent.com/u/711249 
 ---
 title : We have a new website
@@ -215,5 +215,5 @@ ref: master
 path: /news/2014-06-13-website.asciidoc
 tags: noteworthy
 author: 
-   name: Forge 
+   name: Forge Team
    avatar_url: https://avatars2.githubusercontent.com/u/711249 
