@@ -6,7 +6,9 @@ summary: Introductory article for JBoss Forge published in GNU/Linux Magazine Fr
 repo: https://github.com/forge/docs.git
 ref: master
 path: /tutorials/glmf_articles_translations/01_introduction/forge_introduction_by_wadael.asciidoc
-authorId: wadale
+author: 
+   name: Jérôme Baton
+   avatar_url: https://avatars2.githubusercontent.com/u/1598352
 ---
 level: Advanced
 group: Core
@@ -16,7 +18,9 @@ summary: Learn how to build a Forge addon and share it.
 repo: https://github.com/forge/docs.git
 ref: master
 path: /get_started/Develop-your-addon.asciidoc
-authorId: lincolnthree
+author: 
+   name: Lincoln Baxter, III
+   avatar_url: https://avatars1.githubusercontent.com/u/362329
 ---
 level: Advanced
 group: Core
@@ -26,7 +30,9 @@ summary: Want to run Forge addons in an embedded application? Learn to use Furna
 repo: https://github.com/forge/docs.git
 ref: master
 path: tutorials/Running-Standalone-Furnace.asciidoc
-authorId: gastaldi
+author: 
+   name: George Gastaldi
+   avatar_url: https://avatars3.githubusercontent.com/u/54133
 ---
 level: Advanced
 group: Core
@@ -36,7 +42,9 @@ summary: Learn how to write real tests for your Forge Addon.
 repo: https://github.com/forge/docs.git
 ref: master
 path: /advanced/Testing-your-addons.asciidoc
-authorId: vineetreynolds
+author: 
+   name: Vineet Reynolds
+   avatar_url: https://avatars2.githubusercontent.com/u/792234
 ---
 level: Intermediate
 group: Community
@@ -46,7 +54,9 @@ summary: Running Forge shell with Cygwin and deploying the generated app in Wild
 repo: https://github.com/forge/docs.git
 ref: master
 path: /get_started/Cygwin_Manual.asciidoc
-authorId: degyves
+author: 
+   name: Victor Polo de Gyves
+   avatar_url: https://avatars1.githubusercontent.com/u/2539124
 ---
 level: Beginner
 group: Core
@@ -56,7 +66,9 @@ summary: Some frequent answered questions from our users
 repo: https://github.com/forge/docs.git
 ref: master
 path: /get_started/Faq.asciidoc
-authorId: gastaldi
+author: 
+   name: George Gastaldi
+   avatar_url: https://avatars3.githubusercontent.com/u/54133
 ---
 level: Beginner
 group: Community
@@ -66,7 +78,9 @@ summary: Get Forge installed in your native terminal.
 repo: https://github.com/forge/docs.git
 ref: master
 path: /get_started/Installation.asciidoc
-authorId: agoncal
+author: 
+   name: Antonio Goncalves
+   avatar_url: https://avatars3.githubusercontent.com/u/729277
 ---
 level: Beginner
 group: Community
@@ -76,7 +90,9 @@ summary: Use Forge to perform simple tasks on, and generate, Java EE code.
 repo: https://github.com/forge/docs.git
 ref: master
 path: /get_started/Samples.asciidoc
-authorId: agoncal
+author: 
+   name: Antonio Goncalves
+   avatar_url: https://avatars3.githubusercontent.com/u/729277
 ---
 level: Advanced
 group: Core
@@ -86,7 +102,9 @@ summary: Learn how to contribute to Forge with code
 repo: https://github.com/forge/core.git
 ref: master
 path: /CONTRIBUTING.asciidoc
-authorId: forge
+author:
+	name: Forge team
+	avatar_url: https://avatars2.githubusercontent.com/u/711249
 ---
 level: Beginner
 group: Community
@@ -97,7 +115,9 @@ repo: https://github.com/forge/docs.git
 ref: master
 path: /tutorials/forge-hol/docs/forge-hol.adoc
 linkTransposition: /tutorials/forge-hol/docs/
-authorId: forge
+author:
+	name: Forge team
+	avatar_url: https://avatars2.githubusercontent.com/u/711249
 ---
 level: Advanced
 group: Community
@@ -107,7 +127,9 @@ summary: Use Forge to create a entire Java EE Web application.
 repo: https://github.com/forge/docs.git
 ref: master
 path: /get_started/Writing-advanced-java-ee-web-app.asciidoc
-authorId: agoncal
+author: 
+   name: Antonio Goncalves
+   avatar_url: https://avatars3.githubusercontent.com/u/729277
 ---
 level: Beginner
 group: Community
@@ -117,7 +139,9 @@ summary: Use Forge to create a basic Java EE Web application.
 repo: https://github.com/forge/docs.git
 ref: master
 path: /get_started/Writing-basic-java-ee-web-app.asciidoc
-authorId: agoncal
+author: 
+   name: Antonio Goncalves
+   avatar_url: https://avatars3.githubusercontent.com/u/729277
 ---
 level: Beginner
 group: Community
@@ -127,7 +151,9 @@ summary: Use Forge to create a basic Java EE REST application.
 repo: https://github.com/forge/docs.git
 ref: master
 path: /get_started/Writing-basic-java-ee-rest-app.asciidoc
-authorId: agoncal
+author: 
+   name: Antonio Goncalves
+   avatar_url: https://avatars3.githubusercontent.com/u/729277
 ---
 level: Advanced
 group: Core
@@ -137,5 +163,7 @@ summary: Forge was designed to be extended, why not share your creation with the
 repo: https://github.com/forge/docs.git
 ref: master
 path: /tutorials/How-to-get-your-addon-listed.asciidoc
-authorId: forge
+author:
+	name: Forge team
+	avatar_url: https://avatars2.githubusercontent.com/u/711249
 ---

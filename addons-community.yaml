@@ -5,7 +5,9 @@ website: http://asciidoctor.org/
 repo: https://github.com/forge/asciidoctorj-addon.git
 ref: master
 tags: Asciidoc 
-authorId: gastaldi
+author: 
+   name: George Gastaldi
+   avatar_url: https://avatars3.githubusercontent.com/u/54133
 ---
 id: org.jboss.forge.addon:wildfly-swarm
 name: Wildfly Swarm
@@ -14,7 +16,9 @@ website: http://wildfly.org/swarm/
 repo: https://github.com/forge/wildfly-swarm-addon.git
 ref: master
 tags: Wildfly, Microservices, Swarm
-authorId: gastaldi
+author: 
+   name: George Gastaldi
+   avatar_url: https://avatars3.githubusercontent.com/u/54133
 ---
 id: me.gastaldi.forge:reflections
 name: Reflections
@@ -23,7 +27,9 @@ website: https://github.com/gastaldi/reflections-addon
 repo: https://github.com/gastaldi/reflections-addon.git
 ref: master
 tags: Reflections, metadata, analysis
-authorId: gastaldi
+author: 
+   name: George Gastaldi
+   avatar_url: https://avatars3.githubusercontent.com/u/54133
 ---
 id: org.jboss.forge.addon:as
 name: WildFly AS
@@ -32,7 +38,9 @@ website: http://printstacktrace.org
 repo: https://github.com/jerr/as-forge-addon.git
 ref: forge2
 tags: JBoss, Application Server, Wildfly, EAP, Deploy
-authorId: jerr
+author:
+	name: Jérémie Lagarde
+	avatar_url: https://avatars1.githubusercontent.com/u/273896
 ---
 id: org.jboss.forge.addon:portlet
 name: Portlet
@@ -41,7 +49,9 @@ website: http://printstacktrace.org
 repo: https://github.com/jerr/portlet-forge-addon.git
 ref: forge2
 tags: JBoss, Portlet
-authorId: jerr
+author:
+	name: Jérémie Lagarde
+	avatar_url: https://avatars1.githubusercontent.com/u/273896
 ---
 id: org.jboss.forge.addon:jira
 name: JIRA
@@ -51,7 +61,9 @@ repo: https://github.com/gastaldi/addon-jira.git
 ref: master
 tags: Atlassian, JIRA
 logo: https://c2.staticflickr.com/4/3234/2742514705_fe8fd07b14.jpg
-authorId: gastaldi
+author: 
+   name: George Gastaldi
+   avatar_url: https://avatars3.githubusercontent.com/u/54133
 ---
 id: org.bsc.maven:confluence-forge-plugin
 name: Confluence
@@ -62,7 +74,9 @@ website: https://github.com/bsorrentino/maven-confluence-plugin.forge
 repo: https://github.com/bsorrentino/maven-confluence-plugin.forge.git
 ref: v4
 tags: Atlassian, Confluence, Maven, Wiki
-authorId: bsorrentino
+author: 
+	name: bsorrentino
+	avatar_url: https://avatars1.githubusercontent.com/u/301596
 ---
 id: org.javaee-samples:javaee-samples-forge-addon
 name: JavaEE Samples
@@ -71,7 +85,9 @@ website: http://javaee-samples.github.io/
 repo: https://github.com/javaee-samples/javaee-samples-forge-addon.git
 ref: master
 tags: Sample, Example, Batch, CDI, Concurrency, EJB, EL, JACC, JASPIC, JavaMail, JAX-RS, JAX-WS, JCA, JMS, JPA, JSF, JSON, JTA, Servlet, Validation, WebSocket
-authorId: aslakknutsen
+author:
+	name: Aslak Knutsen
+	avatar_url: https://avatars1.githubusercontent.com/u/132158
 ---
 id: org.george.twitter:twitter
 name: Twitter
@@ -81,7 +97,9 @@ repo: https://github.com/gastaldi/twitter-addon.git
 ref: master
 tags: Twitter
 logo: https://abs.twimg.com/a/1403183846/images/oauth_application.png
-authorId: gastaldi
+author: 
+   name: George Gastaldi
+   avatar_url: https://avatars3.githubusercontent.com/u/54133
 ---
 id: org.picketlink.tools.forge:picketlink-forge-addon
 name: PicketLink
@@ -91,7 +109,9 @@ repo: https://github.com/picketlink/picketlink-forge-addon.git
 ref: master
 tags: PicketLink
 logo: http://static.jboss.org/picketlink/images/picketlink_200x150.png
-authorId: picketlink
+author: 
+	name: Picketlink Team
+	avatar_url: http://static.jboss.org/picketlink/images/picketlink_200x150.png
 ---
 id: org.bsc:dynjs-addon
 name: DynJS
@@ -102,7 +122,9 @@ website: https://github.com/bsorrentino/forge-dynjs-addon
 repo: https://github.com/bsorrentino/forge-dynjs-addon.git
 ref: master
 tags: javascript
-authorId: bsorrentino
+author: 
+	name: bsorrentino
+	avatar_url: https://avatars1.githubusercontent.com/u/301596
 ---
 id: org.walkmod:forge-walkmod-plugin
 name: Walkmod
@@ -122,7 +144,9 @@ repo: https://github.com/forge/addon-arquillian.git
 ref: master
 tags: arquillian, junit, testng, testing
 logo: http://arquillian.org/images/arquillian_crown_icon_glossy_256.png
-authorId: aslakknutsen
+author:
+	name: Aslak Knutsen
+	avatar_url: https://avatars1.githubusercontent.com/u/132158
 ---
 id: org.jboss.errai.forge:errai-forge-addon
 name: Errai
@@ -133,7 +157,9 @@ path: errai-forge-addon
 ref: master
 tags: errai, html5, javascript, css, templating, javaee, cordova, mobile, camera, phone
 logo: http://erraiframework.org/images/errai_logo.png
-authorId: mbarkley
+author:
+	name: Max Barkley
+	avatar_url: https://avatars0.githubusercontent.com/u/4459888
 ---
 id: org.jboss.forge.addon:mail
 name: Mail
@@ -143,7 +169,9 @@ repo: https://github.com/forge/addon-mail.git
 ref: master
 tags: Email, Client, SMTP
 logo: http://9to5mac.files.wordpress.com/2013/06/mail.png?w=50
-authorId: lincolnthree
+author: 
+   name: Lincoln Baxter, III
+   avatar_url: https://avatars1.githubusercontent.com/u/362329
 ---
 id: org.richfaces.forge:richfaces-forge-addon
 name: RichFaces
@@ -153,7 +181,9 @@ repo: https://github.com/richfaces/richfaces-forge-plugin.git
 ref: master
 tags: RichFaces, JSF
 logo: http://static.jboss.org/richfaces/images/richfaces_200x150.png
-authorId: michpetrov
+author:
+	name: Michal Petrov
+	avatar_url: https://avatars2.githubusercontent.com/u/1999074
 ---
 id: org.jboss.aerogear:unifiedpush
 name: UnifiedPush
@@ -163,7 +193,9 @@ repo: https://github.com/aerogear/unifiedpush-forge-addon
 ref: master
 tags: AeroGear, Mobile, UnifiedPush
 logo: https://avatars3.githubusercontent.com/u/954205?v=3&s=200
-authorId: sebastienblanc
+author:
+	name: Sebastien Blanc
+	avatar_url: https://avatars2.githubusercontent.com/u/335133
 ---
 id: org.primefaces.forge:primefaces-forge-addon
 name: PrimeFaces
@@ -173,7 +205,9 @@ repo: https://github.com/richardhands/primefaces-forge-addon.git
 ref: master
 tags: PrimeFaces, JSF
 logo: http://primefaces.org/images/logo.png
-authorId: richardhands
+author:
+	name: Richard Hands
+	avatar_url: https://avatars2.githubusercontent.com/u/8505141
 ---
 id: org.assertj.forge:assertj-forge-addon
 name: AssertJ Assertions Generator
@@ -183,7 +217,9 @@ repo: https://github.com/AlexBischof/assertj-forge-addon.git
 ref: master
 tags: AssertJ, testing
 logo: http://joel-costigliola.github.io/assertj/favicon.png
-authorId: AlexBischof
+author:
+	name: Alexander Bischof
+	avatar_url: https://avatars3.githubusercontent.com/u/7299851
 ---
 id: org.wadael.forge.metaforgewizard:MetaForgeWizard
 name: Meta Forge Wizard
@@ -192,5 +228,7 @@ website: https://github.com/wadael/MetaForgeWizard
 repo: https://github.com/wadael/MetaForgeWizard.git
 ref: master
 tags: wizard, addon
-authorId: wadael
+author: 
+   name: Jérôme Baton
+   avatar_url: https://avatars2.githubusercontent.com/u/1598352
 ---
