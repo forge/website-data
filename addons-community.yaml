@@ -39,8 +39,8 @@ repo: https://github.com/jerr/as-forge-addon.git
 ref: forge2
 tags: JBoss, Application Server, Wildfly, EAP, Deploy
 author:
-	name: Jérémie Lagarde
-	avatar_url: https://avatars1.githubusercontent.com/u/273896
+   name: Jérémie Lagarde
+   avatar_url: https://avatars1.githubusercontent.com/u/273896
 ---
 id: org.jboss.forge.addon:portlet
 name: Portlet
@@ -50,8 +50,8 @@ repo: https://github.com/jerr/portlet-forge-addon.git
 ref: forge2
 tags: JBoss, Portlet
 author:
-	name: Jérémie Lagarde
-	avatar_url: https://avatars1.githubusercontent.com/u/273896
+   name: Jérémie Lagarde
+   avatar_url: https://avatars1.githubusercontent.com/u/273896
 ---
 id: org.jboss.forge.addon:jira
 name: JIRA
@@ -75,8 +75,8 @@ repo: https://github.com/bsorrentino/maven-confluence-plugin.forge.git
 ref: v4
 tags: Atlassian, Confluence, Maven, Wiki
 author: 
-	name: bsorrentino
-	avatar_url: https://avatars1.githubusercontent.com/u/301596
+   name: bsorrentino
+   avatar_url: https://avatars1.githubusercontent.com/u/301596
 ---
 id: org.javaee-samples:javaee-samples-forge-addon
 name: JavaEE Samples
@@ -86,8 +86,8 @@ repo: https://github.com/javaee-samples/javaee-samples-forge-addon.git
 ref: master
 tags: Sample, Example, Batch, CDI, Concurrency, EJB, EL, JACC, JASPIC, JavaMail, JAX-RS, JAX-WS, JCA, JMS, JPA, JSF, JSON, JTA, Servlet, Validation, WebSocket
 author:
-	name: Aslak Knutsen
-	avatar_url: https://avatars1.githubusercontent.com/u/132158
+   name: Aslak Knutsen
+   avatar_url: https://avatars1.githubusercontent.com/u/132158
 ---
 id: org.george.twitter:twitter
 name: Twitter
@@ -110,8 +110,8 @@ ref: master
 tags: PicketLink
 logo: http://static.jboss.org/picketlink/images/picketlink_200x150.png
 author: 
-	name: Picketlink Team
-	avatar_url: http://static.jboss.org/picketlink/images/picketlink_200x150.png
+   name: Picketlink Team
+   avatar_url: http://static.jboss.org/picketlink/images/picketlink_200x150.png
 ---
 id: org.bsc:dynjs-addon
 name: DynJS
@@ -123,8 +123,8 @@ repo: https://github.com/bsorrentino/forge-dynjs-addon.git
 ref: master
 tags: javascript
 author:
-	name: bsorrentino
-	avatar_url: https://avatars1.githubusercontent.com/u/301596
+   name: bsorrentino
+   avatar_url: https://avatars1.githubusercontent.com/u/301596
 ---
 id: org.walkmod:forge-walkmod-plugin
 name: Walkmod
@@ -135,8 +135,8 @@ ref: master
 tags: java, code conventions, walkmod, conventions
 logo: http://walkmod.com/img/heavy-tree.jpg
 author:
-	name: Raquel Pau
-	avatar_url: https://avatars2.githubusercontent.com/u/1483433
+   name: Raquel Pau
+   avatar_url: https://avatars2.githubusercontent.com/u/1483433
 ---
 id: org.arquillian.forge:arquillian-addon
 name: Arquillian
@@ -147,8 +147,8 @@ ref: master
 tags: arquillian, junit, testng, testing
 logo: http://arquillian.org/images/arquillian_crown_icon_glossy_256.png
 author:
-	name: Aslak Knutsen
-	avatar_url: https://avatars1.githubusercontent.com/u/132158
+   name: Aslak Knutsen
+   avatar_url: https://avatars1.githubusercontent.com/u/132158
 ---
 id: org.jboss.errai.forge:errai-forge-addon
 name: Errai
@@ -160,8 +160,8 @@ ref: master
 tags: errai, html5, javascript, css, templating, javaee, cordova, mobile, camera, phone
 logo: http://erraiframework.org/images/errai_logo.png
 author:
-	name: Max Barkley
-	avatar_url: https://avatars0.githubusercontent.com/u/4459888
+   name: Max Barkley
+   avatar_url: https://avatars0.githubusercontent.com/u/4459888
 ---
 id: org.jboss.forge.addon:mail
 name: Mail
@@ -184,8 +184,8 @@ ref: master
 tags: RichFaces, JSF
 logo: http://static.jboss.org/richfaces/images/richfaces_200x150.png
 author:
-	name: Michal Petrov
-	avatar_url: https://avatars2.githubusercontent.com/u/1999074
+   name: Michal Petrov
+   avatar_url: https://avatars2.githubusercontent.com/u/1999074
 ---
 id: org.jboss.aerogear:unifiedpush
 name: UnifiedPush
@@ -196,8 +196,8 @@ ref: master
 tags: AeroGear, Mobile, UnifiedPush
 logo: https://avatars3.githubusercontent.com/u/954205?v=3&s=200
 author:
-	name: Sebastien Blanc
-	avatar_url: https://avatars2.githubusercontent.com/u/335133
+   name: Sebastien Blanc
+   avatar_url: https://avatars2.githubusercontent.com/u/335133
 ---
 id: org.primefaces.forge:primefaces-forge-addon
 name: PrimeFaces
@@ -208,8 +208,8 @@ ref: master
 tags: PrimeFaces, JSF
 logo: http://primefaces.org/images/logo.png
 author:
-	name: Richard Hands
-	avatar_url: https://avatars2.githubusercontent.com/u/8505141
+   name: Richard Hands
+   avatar_url: https://avatars2.githubusercontent.com/u/8505141
 ---
 id: org.assertj.forge:assertj-forge-addon
 name: AssertJ Assertions Generator
@@ -220,8 +220,8 @@ ref: master
 tags: AssertJ, testing
 logo: http://joel-costigliola.github.io/assertj/favicon.png
 author:
-	name: Alexander Bischof
-	avatar_url: https://avatars3.githubusercontent.com/u/7299851
+   name: Alexander Bischof
+   avatar_url: https://avatars3.githubusercontent.com/u/7299851
 ---
 id: org.wadael.forge.metaforgewizard:MetaForgeWizard
 name: Meta Forge Wizard

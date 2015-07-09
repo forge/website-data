@@ -30,8 +30,8 @@ ref: master
 tags: UI
 path: /ui
 author:
-	name: Forge team
-	avatar_url: https://avatars2.githubusercontent.com/u/711249
+   name: Forge team
+   avatar_url: https://avatars2.githubusercontent.com/u/711249
 ---
 id: org.jboss.forge.addon:addon-manager
 name: Addon Manager
@@ -42,8 +42,8 @@ ref: master
 tags: Addons
 path: /addon-manager
 author:
-	name: Forge team
-	avatar_url: https://avatars2.githubusercontent.com/u/711249
+   name: Forge team
+   avatar_url: https://avatars2.githubusercontent.com/u/711249
 ---
 id: org.jboss.forge.addon:addons
 name: Addon Development (Addons)
@@ -54,8 +54,8 @@ ref: master
 tags: Addons, Development Tools
 path: /addons
 author:
-	name: Forge team
-	avatar_url: https://avatars2.githubusercontent.com/u/711249
+   name: Forge team
+   avatar_url: https://avatars2.githubusercontent.com/u/711249
 ---
 id: org.jboss.forge.addon:configuration
 name: Configuration
@@ -66,8 +66,8 @@ ref: master
 tags: Configuration
 path: /configuration
 author:
-	name: Forge team
-	avatar_url: https://avatars2.githubusercontent.com/u/711249
+   name: Forge team
+   avatar_url: https://avatars2.githubusercontent.com/u/711249
 ---
 id: org.jboss.forge.addon:convert
 name: Convert
@@ -78,8 +78,8 @@ ref: master
 tags: Conversion
 path: /convert
 author:
-	name: Forge team
-	avatar_url: https://avatars2.githubusercontent.com/u/711249
+   name: Forge team
+   avatar_url: https://avatars2.githubusercontent.com/u/711249
 ---
 id: org.jboss.forge.addon:dependencies
 name: Dependencies
@@ -90,8 +90,8 @@ ref: master
 tags: Dependency Resolution, Maven, Gradle, Ivy, Ant
 path: /dependencies
 author:
-	name: Forge team
-	avatar_url: https://avatars2.githubusercontent.com/u/711249
+   name: Forge team
+   avatar_url: https://avatars2.githubusercontent.com/u/711249
 ---
 id: org.jboss.forge.addon:dev-tools-java
 name: Dev Tools (Java)
@@ -102,8 +102,8 @@ ref: master
 tags: Java, Development, Tools
 path: /dev-tools-java
 author:
-	name: Forge team
-	avatar_url: https://avatars2.githubusercontent.com/u/711249
+   name: Forge team
+   avatar_url: https://avatars2.githubusercontent.com/u/711249
 ---
 id: org.jboss.forge.addon:environment
 name: Environment
@@ -114,8 +114,8 @@ ref: master
 tags: ENV, Configuration
 path: /environment
 author:
-	name: Forge team
-	avatar_url: https://avatars2.githubusercontent.com/u/711249
+   name: Forge team
+   avatar_url: https://avatars2.githubusercontent.com/u/711249
 ---
 id: org.jboss.forge.addon:facets
 name: Facets
@@ -126,8 +126,8 @@ ref: master
 tags: Facets
 path: /facets
 author:
-	name: Forge team
-	avatar_url: https://avatars2.githubusercontent.com/u/711249
+   name: Forge team
+   avatar_url: https://avatars2.githubusercontent.com/u/711249
 ---
 id: org.jboss.forge.addon:git-tools
 name: Git Tools
@@ -138,8 +138,8 @@ ref: master
 tags: Git, VCS, Version Control System
 path: /git
 author:
-	name: Forge team
-	avatar_url: https://avatars2.githubusercontent.com/u/711249
+   name: Forge team
+   avatar_url: https://avatars2.githubusercontent.com/u/711249
 ---
 id: org.jboss.forge.addon:javaee
 name: Java EE
@@ -150,8 +150,8 @@ ref: master
 tags: 
 path: /javaee
 author:
-	name: Forge team
-	avatar_url: https://avatars2.githubusercontent.com/u/711249
+   name: Forge team
+   avatar_url: https://avatars2.githubusercontent.com/u/711249
 ---
 id: org.jboss.forge.addon:maven
 name: Maven
@@ -162,8 +162,8 @@ ref: master
 tags: Maven, Build System
 path: /maven
 author:
-	name: Forge team
-	avatar_url: https://avatars2.githubusercontent.com/u/711249
+   name: Forge team
+   avatar_url: https://avatars2.githubusercontent.com/u/711249
 ---
 id: org.jboss.forge.addon:parser-java
 name: Parser - Java
@@ -174,8 +174,8 @@ ref: master
 tags: Parsers, Java, Eclipse JDT, AST
 path: /parser-java
 author:
-	name: Forge team
-	avatar_url: https://avatars2.githubusercontent.com/u/711249
+   name: Forge team
+   avatar_url: https://avatars2.githubusercontent.com/u/711249
 ---
 id: org.jboss.forge.addon:parser-json
 name: Parser - JSON
@@ -186,8 +186,8 @@ ref: master
 tags: Parsers, JSON, JSR-353
 path: /parser-json
 author:
-	name: Forge team
-	avatar_url: https://avatars2.githubusercontent.com/u/711249
+   name: Forge team
+   avatar_url: https://avatars2.githubusercontent.com/u/711249
 ---
 id: org.jboss.forge.addon:parser-xml
 name: Parser - XML
@@ -198,8 +198,8 @@ ref: master
 tags: Parsers, XML
 path: /parser-xml
 author:
-	name: Forge team
-	avatar_url: https://avatars2.githubusercontent.com/u/711249
+   name: Forge team
+   avatar_url: https://avatars2.githubusercontent.com/u/711249
 ---
 id: org.jboss.forge.addon:projects
 name: Projects
@@ -210,8 +210,8 @@ ref: master
 tags: Projects
 path: /projects
 author:
-	name: Forge team
-	avatar_url: https://avatars2.githubusercontent.com/u/711249
+   name: Forge team
+   avatar_url: https://avatars2.githubusercontent.com/u/711249
 ---
 id: org.jboss.forge.addon:resources
 name: Resources
@@ -222,8 +222,8 @@ ref: master
 tags: Resoruces, VFS, Virtual File System
 path: /resources
 author:
-	name: Forge team
-	avatar_url: https://avatars2.githubusercontent.com/u/711249
+   name: Forge team
+   avatar_url: https://avatars2.githubusercontent.com/u/711249
 ---
 id: org.jboss.forge.addon:rest-client
 name: REST Client
@@ -234,8 +234,8 @@ ref: master
 tags: REST client
 path: /rest-client
 author:
-	name: Forge team
-	avatar_url: https://avatars2.githubusercontent.com/u/711249
+   name: Forge team
+   avatar_url: https://avatars2.githubusercontent.com/u/711249
 ---
 id: org.jboss.forge.addon:shell
 name: Shell
@@ -246,8 +246,8 @@ ref: master
 tags: Shell, UIProvider, CLI, Terminal
 path: /shell
 author:
-	name: Forge team
-	avatar_url: https://avatars2.githubusercontent.com/u/711249
+   name: Forge team
+   avatar_url: https://avatars2.githubusercontent.com/u/711249
 ---
 id: org.jboss.forge.addon:templates
 name: Templates
@@ -258,8 +258,8 @@ ref: master
 tags: Templating, Freemarker, Velocity
 path: /templates
 author:
-	name: Forge team
-	avatar_url: https://avatars2.githubusercontent.com/u/711249
+   name: Forge team
+   avatar_url: https://avatars2.githubusercontent.com/u/711249
 ---
 id: org.jboss.forge.addon:text
 name: Text Utils
@@ -270,6 +270,6 @@ ref: master
 tags: Text Manipulation
 path: /text
 author:
-	name: Forge team
-	avatar_url: https://avatars2.githubusercontent.com/u/711249
+   name: Forge team
+   avatar_url: https://avatars2.githubusercontent.com/u/711249
 ---

@@ -103,8 +103,8 @@ repo: https://github.com/forge/core.git
 ref: master
 path: /CONTRIBUTING.asciidoc
 author:
-	name: Forge team
-	avatar_url: https://avatars2.githubusercontent.com/u/711249
+   name: Forge team
+   avatar_url: https://avatars2.githubusercontent.com/u/711249
 ---
 level: Beginner
 group: Community
@@ -116,8 +116,8 @@ ref: master
 path: /tutorials/forge-hol/docs/forge-hol.adoc
 linkTransposition: /tutorials/forge-hol/docs/
 author:
-	name: Forge team
-	avatar_url: https://avatars2.githubusercontent.com/u/711249
+   name: Forge team
+   avatar_url: https://avatars2.githubusercontent.com/u/711249
 ---
 level: Advanced
 group: Community
@@ -164,6 +164,6 @@ repo: https://github.com/forge/docs.git
 ref: master
 path: /tutorials/How-to-get-your-addon-listed.asciidoc
 author:
-	name: Forge team
-	avatar_url: https://avatars2.githubusercontent.com/u/711249
+   name: Forge team
+   avatar_url: https://avatars2.githubusercontent.com/u/711249
 ---
