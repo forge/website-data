@@ -1,63 +1,57 @@
 id: org.jboss.forge.addon:asciidoctorj
 name: AsciidoctorJ
 description: AsciidoctorJ is the official library for running Asciidoctor on the JVM. Support for AsciidocFileResource.
-author: George Gastaldi
-email: forge-dev@lists.jboss.org
 website: http://asciidoctor.org/
 repo: https://github.com/forge/asciidoctorj-addon.git
 ref: master
 tags: Asciidoc 
+authorId: gastaldi
 ---
 id: org.jboss.forge.addon:wildfly-swarm
 name: Wildfly Swarm
 description: WildFly Swarm is a new sidecar project to WildFly which helps you create self-contained Java microservices based upon the normal WildFly application-server.
-author: George Gastaldi
-email: forge-dev@lists.jboss.org
 website: http://wildfly.org/swarm/
 repo: https://github.com/forge/wildfly-swarm-addon.git
 ref: master
 tags: Wildfly, Microservices, Swarm
+authorId: gastaldi
 ---
 id: me.gastaldi.forge:reflections
 name: Reflections
 description: Enables the usage of the Reflections library as project facets for Java runtime metadata analysis
-author: George Gastaldi
-email: gegastaldi@gmail.com
 website: https://github.com/gastaldi/reflections-addon
 repo: https://github.com/gastaldi/reflections-addon.git
 ref: master
 tags: Reflections, metadata, analysis
+authorId: gastaldi
 ---
 id: org.jboss.forge.addon:as
 name: WildFly AS
 description: Deployment and control for JBoss Wildfly and EAP
-author: Jérémie Lagarde
-email: jer@printstacktrace.org
 website: http://printstacktrace.org
 repo: https://github.com/jerr/as-forge-addon.git
 ref: forge2
 tags: JBoss, Application Server, Wildfly, EAP, Deploy
+authorId: jerr
 ---
 id: org.jboss.forge.addon:portlet
 name: Portlet
 description: Supports Portlets 2.0
-author: Jérémie Lagarde
-email: jer@printstacktrace.org
 website: http://printstacktrace.org
 repo: https://github.com/jerr/portlet-forge-addon.git
 ref: forge2
 tags: JBoss, Portlet
+authorId: jerr
 ---
 id: org.jboss.forge.addon:jira
 name: JIRA
 description: Open JIRA issues directly in Forge
-author: George Gastaldi
-email: gegastaldi@gmail.com
 website: https://github.com/gastaldi/addon-jira
 repo: https://github.com/gastaldi/addon-jira.git
 ref: master
 tags: Atlassian, JIRA
 logo: https://c2.staticflickr.com/4/3234/2742514705_fe8fd07b14.jpg
+authorId: gastaldi
 ---
 id: org.bsc.maven:confluence-forge-plugin
 name: Confluence
@@ -68,38 +62,36 @@ website: https://github.com/bsorrentino/maven-confluence-plugin.forge
 repo: https://github.com/bsorrentino/maven-confluence-plugin.forge.git
 ref: v4
 tags: Atlassian, Confluence, Maven, Wiki
+authorId: bsorrentino
 ---
 id: org.javaee-samples:javaee-samples-forge-addon
 name: JavaEE Samples
 description: Search for JavaEE Samples
-author: Aslak Knutsen
-email: aslak@4fs.no
 website: http://javaee-samples.github.io/
 repo: https://github.com/javaee-samples/javaee-samples-forge-addon.git
 ref: master
 tags: Sample, Example, Batch, CDI, Concurrency, EJB, EL, JACC, JASPIC, JavaMail, JAX-RS, JAX-WS, JCA, JMS, JPA, JSF, JSON, JTA, Servlet, Validation, WebSocket
+authorId: aslakknutsen
 ---
 id: org.george.twitter:twitter
 name: Twitter
 description: Setup a Twitter account and tweet away!
-author: George Gastaldi
-email: gegastaldi@gmail.com
 website: https://github.com/gastaldi/twitter-addon
 repo: https://github.com/gastaldi/twitter-addon.git
 ref: master
 tags: Twitter
 logo: https://abs.twimg.com/a/1403183846/images/oauth_application.png
+authorId: gastaldi
 ---
 id: org.picketlink.tools.forge:picketlink-forge-addon
 name: PicketLink
 description: The picketlink-forge-addon enables security to your project by providing configuration options to quickly setup Authentication, Authorization and Identity Management to your project
-author: PicketLink Team
-email: security-dev@lists.jboss.org
 website: http://picketlink.org/
 repo: https://github.com/picketlink/picketlink-forge-addon.git
 ref: master
 tags: PicketLink
 logo: http://static.jboss.org/picketlink/images/picketlink_200x150.png
+authorId: picketlink
 ---
 id: org.bsc:dynjs-addon
 name: DynJS
@@ -110,103 +102,95 @@ website: https://github.com/bsorrentino/forge-dynjs-addon
 repo: https://github.com/bsorrentino/forge-dynjs-addon.git
 ref: master
 tags: javascript
+authorId: bsorrentino
 ---
 id: org.walkmod:forge-walkmod-plugin
 name: Walkmod
 description: Apply and share coding conventions
-author: Raquel Pau
-email: raquelpau@gmail.com
 website: http://www.walkmod.com
 repo: https://github.com/rpau/forge-walkmod-plugin.git
 ref: master
 tags: java, code conventions, walkmod, conventions
 logo: http://walkmod.com/img/heavy-tree.jpg
+authorId: rpau
 ---
 id: org.arquillian.forge:arquillian-addon
 name: Arquillian
 description: Set up and configure Arquillian for real java testing against live containers and environments
-author: Aslak Knutsen
-email: aslak.tux@gmail.com
 website: http://arquillian.org
 repo: https://github.com/forge/addon-arquillian.git
 ref: master
 tags: arquillian, junit, testng, testing
 logo: http://arquillian.org/images/arquillian_crown_icon_glossy_256.png
+authorId: aslakknutsen
 ---
 id: org.jboss.errai.forge:errai-forge-addon
 name: Errai
 description: Set up and configure the Errai framework for real java rapid application development with Java EE technologies running in the browser.
-author: Max Barkley, The Errai Team
-email: errai-dev@lists.jboss.org
 website: http://arquillian.org
 repo: https://github.com/errai/errai.git
 path: errai-forge-addon
 ref: master
 tags: errai, html5, javascript, css, templating, javaee, cordova, mobile, camera, phone
 logo: http://erraiframework.org/images/errai_logo.png
+authorId: mbarkley
 ---
 id: org.jboss.forge.addon:mail
 name: Mail
 description: Simple email client for Forge
-author: Lincoln Baxter, III
-email: forge-dev@lists.jboss.org
 website: http://forge.jboss.org
 repo: https://github.com/forge/addon-mail.git
 ref: master
 tags: Email, Client, SMTP
 logo: http://9to5mac.files.wordpress.com/2013/06/mail.png?w=50
+authorId: lincolnthree
 ---
 id: org.richfaces.forge:richfaces-forge-addon
 name: RichFaces
 description: Setup RichFaces in your project
-author: Michal Petrov
-email: richfaces-dev@lists.jboss.org
 website: http://richfaces.jboss.org
 repo: https://github.com/richfaces/richfaces-forge-plugin.git
 ref: master
 tags: RichFaces, JSF
 logo: http://static.jboss.org/richfaces/images/richfaces_200x150.png
+authorId: michpetrov
 ---
 id: org.jboss.aerogear:unifiedpush
 name: UnifiedPush
 description: Setup UnifiedPush Java Sender in your project
-author: Sébastien Blanc
-email: aerogear-dev@lists.jboss.org
 website: http://aerogear.org
 repo: https://github.com/aerogear/unifiedpush-forge-addon
 ref: master
 tags: AeroGear, Mobile, UnifiedPush
 logo: https://avatars3.githubusercontent.com/u/954205?v=3&s=200
+authorId: sebastienblanc
 ---
 id: org.primefaces.forge:primefaces-forge-addon
 name: PrimeFaces
 description: Setup PrimeFaces in your project
-author: Richard Hands (derived from work by Michal Petrov)
-email: richardhands@googlemail.com
 website: http://primefaces.org
 repo: https://github.com/richardhands/primefaces-forge-addon.git
 ref: master
 tags: PrimeFaces, JSF
 logo: http://primefaces.org/images/logo.png
+authorId: richardhands
 ---
 id: org.assertj.forge:assertj-forge-addon
 name: AssertJ Assertions Generator
 description: Setup AssertJ Assertions Generator in your project
-author: Alexander Bischof
-email: alexanderxbischof@gmail.com
 website: http://joel-costigliola.github.io/assertj/assertj-assertions-generator.html
 repo: https://github.com/AlexBischof/assertj-forge-addon.git
 ref: master
 tags: AssertJ, testing
 logo: http://joel-costigliola.github.io/assertj/favicon.png
+authorId: AlexBischof
 ---
 id: org.wadael.forge.metaforgewizard:MetaForgeWizard
 name: Meta Forge Wizard
 description: Addon, of type wizard, made to generate wizard-style addons.
-author: Jerome Baton
-email: wadael@gmail.com
 website: https://github.com/wadael/MetaForgeWizard
 repo: https://github.com/wadael/MetaForgeWizard.git
 ref: master
 tags: wizard, addon
+authorId: wadael
 ---
