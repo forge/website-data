@@ -8,6 +8,7 @@ ref: master
 path: /tutorials/glmf_articles_translations/01_introduction/forge_introduction_by_wadael.asciidoc
 author: Jérôme Baton
 email: wadael@gmail.com
+authorId: wadale
 ---
 level: Advanced
 group: Core
@@ -19,6 +20,7 @@ ref: master
 path: /get_started/Develop-your-addon.asciidoc
 author: Lincoln Baxter, III
 email: lincolnbaxter@gmail.com
+authorId: lincolnthree
 ---
 level: Advanced
 group: Core
@@ -30,6 +32,7 @@ ref: master
 path: tutorials/Running-Standalone-Furnace.asciidoc
 author: George Gastaldi
 email: ggastald@redhat.com
+authorId: gastaldi
 ---
 level: Advanced
 group: Core
@@ -41,6 +44,7 @@ ref: master
 path: /advanced/Testing-your-addons.asciidoc
 author: Vineet Reynolds
 email: vineetr@redhat.com
+authorId: vineetreynolds
 ---
 level: Intermediate
 group: Community
@@ -52,6 +56,7 @@ ref: master
 path: /get_started/Cygwin_Manual.asciidoc
 author: Victor Polo de Gyves
 email: degyves@gmail.com
+authorId: degyves
 ---
 level: Beginner
 group: Core
@@ -63,6 +68,7 @@ ref: master
 path: /get_started/Faq.asciidoc
 author: George Gastaldi
 email: george@gastaldi.net.br
+authorId: gastaldi
 ---
 level: Beginner
 group: Community
@@ -74,6 +80,7 @@ ref: master
 path: /get_started/Installation.asciidoc
 author: Antonio Goncalves
 email: antonio.goncalves@gmail.com
+authorId: agoncal
 ---
 level: Beginner
 group: Community
@@ -85,6 +92,7 @@ ref: master
 path: /get_started/Samples.asciidoc
 author: Antonio Goncalves
 email: antonio.goncalves@gmail.com
+authorId: agoncal
 ---
 level: Advanced
 group: Core
@@ -96,6 +104,7 @@ ref: master
 path: /CONTRIBUTING.asciidoc
 author: Forge Team
 email: forge@redhat.com
+authorId: forge
 ---
 level: Beginner
 group: Community
@@ -108,6 +117,7 @@ path: /tutorials/forge-hol/docs/forge-hol.adoc
 author: Forge Community
 email: forge@redhat.com
 linkTransposition: /tutorials/forge-hol/docs/
+authorId: forge
 ---
 level: Advanced
 group: Community
@@ -119,6 +129,7 @@ ref: master
 path: /get_started/Writing-advanced-java-ee-web-app.asciidoc
 author: Antonio Goncalves
 email: antonio.goncalves@gmail.com
+authorId: agoncal
 ---
 level: Beginner
 group: Community
@@ -130,6 +141,7 @@ ref: master
 path: /get_started/Writing-basic-java-ee-web-app.asciidoc
 author: Antonio Goncalves
 email: antonio.goncalves@gmail.com
+authorId: agoncal
 ---
 level: Beginner
 group: Community
@@ -141,6 +153,7 @@ ref: master
 path: /get_started/Writing-basic-java-ee-rest-app.asciidoc
 author: Antonio Goncalves
 email: antonio.goncalves@gmail.com
+authorId: agoncal
 ---
 level: Advanced
 group: Core
@@ -152,4 +165,5 @@ ref: master
 path: /tutorials/How-to-get-your-addon-listed.asciidoc
 author: Forge Team
 email: forge@redhat.com
+authorId: forge
 ---
