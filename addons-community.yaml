@@ -4,8 +4,8 @@ description: AsciidoctorJ is the official library for running Asciidoctor on the
 website: http://asciidoctor.org/
 repo: https://github.com/forge/asciidoctorj-addon.git
 ref: master
-tags: Asciidoc 
-author: 
+tags: Asciidoc
+author:
    name: George Gastaldi
    avatar_url: https://avatars3.githubusercontent.com/u/54133
 ---
@@ -16,7 +16,7 @@ website: http://wildfly.org/swarm/
 repo: https://github.com/forge/wildfly-swarm-addon.git
 ref: master
 tags: Wildfly, Microservices, Swarm
-author: 
+author:
    name: George Gastaldi
    avatar_url: https://avatars3.githubusercontent.com/u/54133
 ---
@@ -27,7 +27,7 @@ website: https://github.com/gastaldi/reflections-addon
 repo: https://github.com/gastaldi/reflections-addon.git
 ref: master
 tags: Reflections, metadata, analysis
-author: 
+author:
    name: George Gastaldi
    avatar_url: https://avatars3.githubusercontent.com/u/54133
 ---
@@ -61,7 +61,7 @@ repo: https://github.com/gastaldi/addon-jira.git
 ref: master
 tags: Atlassian, JIRA
 logo: https://c2.staticflickr.com/4/3234/2742514705_fe8fd07b14.jpg
-author: 
+author:
    name: George Gastaldi
    avatar_url: https://avatars3.githubusercontent.com/u/54133
 ---
@@ -72,9 +72,9 @@ author: Bartolomeo  Sorrentino
 email: bartolomeo.sorrentino@gmail.com
 website: https://github.com/bsorrentino/maven-confluence-plugin.forge
 repo: https://github.com/bsorrentino/maven-confluence-plugin.forge.git
-ref: v4
+ref: master
 tags: Atlassian, Confluence, Maven, Wiki
-author: 
+author:
    name: bsorrentino
    avatar_url: https://avatars1.githubusercontent.com/u/301596
 ---
@@ -97,7 +97,7 @@ repo: https://github.com/gastaldi/twitter-addon.git
 ref: master
 tags: Twitter
 logo: https://abs.twimg.com/a/1403183846/images/oauth_application.png
-author: 
+author:
    name: George Gastaldi
    avatar_url: https://avatars3.githubusercontent.com/u/54133
 ---
@@ -109,7 +109,7 @@ repo: https://github.com/picketlink/picketlink-forge-addon.git
 ref: master
 tags: PicketLink
 logo: http://static.jboss.org/picketlink/images/picketlink_200x150.png
-author: 
+author:
    name: Picketlink Team
    avatar_url: http://static.jboss.org/picketlink/images/picketlink_200x150.png
 ---
@@ -171,7 +171,7 @@ repo: https://github.com/forge/addon-mail.git
 ref: master
 tags: Email, Client, SMTP
 logo: http://9to5mac.files.wordpress.com/2013/06/mail.png?w=50
-author: 
+author:
    name: Lincoln Baxter, III
    avatar_url: https://avatars1.githubusercontent.com/u/362329
 ---
@@ -230,7 +230,7 @@ website: https://github.com/wadael/MetaForgeWizard
 repo: https://github.com/wadael/MetaForgeWizard.git
 ref: master
 tags: wizard, addon
-author: 
+author:
    name: Jérôme Baton
    avatar_url: https://avatars2.githubusercontent.com/u/1598352
 ---
