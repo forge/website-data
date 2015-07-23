@@ -1,3 +1,15 @@
+id: org.jboss.forge.addon:script
+name: Script
+description: Provides support to a JSR-223 ScriptEngine and ScriptFileResource
+website: http://forge.jboss.org
+repo: https://github.com/forge/core.git
+ref: master
+tags: Script
+path: /script
+author:
+   name: Forge team
+   avatar_url: https://avatars2.githubusercontent.com/u/711249
+---
 id: org.jboss.forge.addon:gradle
 name: Gradle
 description: Gradle build system support for Forge
