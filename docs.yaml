@@ -167,3 +167,16 @@ author:
    name: Forge team
    avatar_url: https://avatars2.githubusercontent.com/u/711249
 ---
+---
+level: Advanced
+group: Core
+type: Tutorial
+title: Profiling Forge
+summary: Forge can be easily profiled using the YourKit Java Profiler.
+repo: https://github.com/forge/docs.git
+ref: master
+path: /tutorials/Profiling.asciidoc
+author:
+   name: Forge team
+   avatar_url: https://avatars2.githubusercontent.com/u/711249
+---
