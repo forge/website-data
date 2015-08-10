@@ -239,6 +239,7 @@ name: Camel Forge Addon
 description: Setup/Manage Apache Camel in your project
 url: http://fabric8.io/guide/forge.html
 website: http://fabric8.io/guide/forge.html
+installCmd: addon-install --coordinate io.fabric8.forge:camel
 repo: https://github.com/fabric8io/fabric8.git
 ref: master
 tags: camel, addon
