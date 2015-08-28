@@ -115,6 +115,7 @@ repo: https://github.com/forge/docs.git
 ref: master
 path: /tutorials/forge-hol/docs/forge-hol.adoc
 linkTransposition: /tutorials/forge-hol/docs/
+renderedBy: redoculous
 author:
    name: Forge team
    avatar_url: https://avatars2.githubusercontent.com/u/711249
