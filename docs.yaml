@@ -29,7 +29,7 @@ title: Run Forge Embedded
 summary: Want to run Forge addons in an embedded application? Learn to use Furnace - The modular runtime container behind Forge.
 repo: https://github.com/forge/docs.git
 ref: master
-path: tutorials/Running-Standalone-Furnace.asciidoc
+path: /tutorials/Running-Standalone-Furnace.asciidoc
 author: 
    name: George Gastaldi
    avatar_url: https://avatars3.githubusercontent.com/u/54133
