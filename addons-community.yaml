@@ -249,3 +249,18 @@ author:
    name: Fabric8 Team
    avatar_url: http://design.jboss.org/fabric8/logo/final/fabric8_icon_256px.png
 ---
+
+---
+id: org.jboss.swagger:swagger-addon
+name: Swagger Addon
+description: Configure and generate Swagger spec files based on your REST endpoints.
+website: https://github.com/rmpestano/swagger-addon
+repo: https://github.com/rmpestano/swagger-addon.git
+installCmd: addon-install-from-git --url https://github.com/rmpestano/swagger-addon.git
+ref: master
+tags: swagger, rest, JAXRS
+logo: http://s4.postimg.org/6n8z8ya1l/swagger_logo.png
+author:
+   name: Rafael Pestano
+   avatar_url: https://pt.gravatar.com/userimage/22997497/1fa9c4a514eaf5b1ebc92f795741203e.png
+---
