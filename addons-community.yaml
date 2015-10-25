@@ -155,7 +155,7 @@ name: Errai
 description: Set up and configure the Errai framework for real java rapid application development with Java EE technologies running in the browser.
 website: http://arquillian.org
 repo: https://github.com/errai/errai.git
-path: errai-forge-addon
+path: /errai-forge-addon
 ref: master
 tags: errai, html5, javascript, css, templating, javaee, cordova, mobile, camera, phone
 logo: http://erraiframework.org/images/errai_logo.png
