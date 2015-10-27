@@ -153,7 +153,7 @@ author:
 id: org.jboss.errai.forge:errai-forge-addon
 name: Errai
 description: Set up and configure the Errai framework for real java rapid application development with Java EE technologies running in the browser.
-website: http://arquillian.org
+website: https://github.com/errai/errai/tree/master/errai-forge-addon
 repo: https://github.com/errai/errai.git
 path: /errai-forge-addon
 ref: master
