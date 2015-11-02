@@ -37,10 +37,10 @@ description: Deployment and control for JBoss Wildfly and EAP
 website: https://github.com/forge/jboss-as-addon
 repo: https://github.com/forge/jboss-as-addon.git
 installCmd:
-   addon-install-from-git --url https://github.com/forge/as-addon  --coordinate org.jboss.forge.addon:as
-   addon-install-from-git --url https://github.com/forge/jboss-as-addon  --coordinate org.jboss.forge.addon:jboss-as-eap6
-   addon-install-from-git --url https://github.com/forge/jboss-as-addon  --coordinate org.jboss.forge.addon:jboss-as-as7
-   addon-install-from-git --url https://github.com/forge/jboss-as-addon  --coordinate org.jboss.forge.addon:jboss-as-wf
+   - addon-install-from-git --url https://github.com/forge/as-addon  --coordinate org.jboss.forge.addon:as
+   - addon-install-from-git --url https://github.com/forge/jboss-as-addon  --coordinate org.jboss.forge.addon:jboss-as-eap6
+   - addon-install-from-git --url https://github.com/forge/jboss-as-addon  --coordinate org.jboss.forge.addon:jboss-as-as7
+   - addon-install-from-git --url https://github.com/forge/jboss-as-addon  --coordinate org.jboss.forge.addon:jboss-as-wf
 ref: master
 tags: JBoss, Application Server, Wildfly, EAP, Deploy
 author:
