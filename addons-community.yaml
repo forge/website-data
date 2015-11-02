@@ -36,11 +36,11 @@ name: WildFly AS
 description: Deployment and control for JBoss Wildfly and EAP
 website: https://github.com/forge/jboss-as-addon
 repo: https://github.com/forge/jboss-as-addon.git
-installCmd: |
-	addon-install-from-git --url https://github.com/forge/as-addon  --coordinate org.jboss.forge.addon:as
-	addon-install-from-git --url https://github.com/forge/jboss-as-addon  --coordinate org.jboss.forge.addon:jboss-as-eap6
-	addon-install-from-git --url https://github.com/forge/jboss-as-addon  --coordinate org.jboss.forge.addon:jboss-as-as7
-	addon-install-from-git --url https://github.com/forge/jboss-as-addon  --coordinate org.jboss.forge.addon:jboss-as-wf
+installCmd:
+   addon-install-from-git --url https://github.com/forge/as-addon  --coordinate org.jboss.forge.addon:as
+   addon-install-from-git --url https://github.com/forge/jboss-as-addon  --coordinate org.jboss.forge.addon:jboss-as-eap6
+   addon-install-from-git --url https://github.com/forge/jboss-as-addon  --coordinate org.jboss.forge.addon:jboss-as-as7
+   addon-install-from-git --url https://github.com/forge/jboss-as-addon  --coordinate org.jboss.forge.addon:jboss-as-wf
 ref: master
 tags: JBoss, Application Server, Wildfly, EAP, Deploy
 author:
@@ -254,8 +254,6 @@ author:
    name: Fabric8 Team
    avatar_url: http://design.jboss.org/fabric8/logo/final/fabric8_icon_256px.png
 ---
-
----
 id: org.jboss.swagger:swagger-addon
 name: Swagger Addon
 description: Configure and generate Swagger spec files based on your REST endpoints.
@@ -268,7 +266,6 @@ logo: http://s4.postimg.org/6n8z8ya1l/swagger_logo.png
 author:
    name: Rafael Pestano
    avatar_url: https://pt.gravatar.com/userimage/22997497/1fa9c4a514eaf5b1ebc92f795741203e.png
----
 ---
 id: com.github.forge.addon:music-addon
 name: Music Addon
