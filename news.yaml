@@ -1,3 +1,25 @@
+title : Forge 3.0.0.Alpha1 is here
+summary: JBoss Forge 3.0.0.Alpha1 is now available. Grab it while it is hot!
+date: 2015-11-06 14:21:00 -2
+repo: https://github.com/forge/docs.git
+ref: master
+path: /news/2015-11-06-forge-3.0.0.alpha1.asciidoc
+tags: release announcement
+author: 
+   name: Forge Team
+   avatar_url: https://avatars2.githubusercontent.com/u/711249 
+---
+title : Forge 2.20.1.Final (Halloween) is here
+summary: JBoss Forge 2.20.1.Final is now available. Grab it while it is hot!
+date: 2015-11-06 14:20:00 -2
+repo: https://github.com/forge/docs.git
+ref: master
+path: /news/2015-11-06-forge-2.20.1.final.asciidoc
+tags: release announcement
+author: 
+   name: Forge Team
+   avatar_url: https://avatars2.githubusercontent.com/u/711249 
+---
 title : Forge 2.20.0.Final (Silver) is here
 summary: JBoss Forge 2.20.0.Final is now available. Grab it while it is hot!
 date: 2015-10-15 15:20:00 -3
