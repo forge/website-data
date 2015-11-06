@@ -1,2 +1,5 @@
-latestVersion: 2.20.0.Final
-latestReleaseDate: 2015-10-15 16:15:00 -3
+latestVersion: 2.20.1.Final
+latestReleaseDate: 2015-11-06 09:55:00 -3
+preReleaseVersions:
+  - 3.0.0.Alpha1
+    - 2015-11-06 09:55:00 -3
