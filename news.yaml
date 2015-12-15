@@ -1,3 +1,14 @@
+title: Forge 3 Public Hangouts in January, 2016
+summary: Join us in our public hangouts about the Forge 3 Roadmap. We want to hear your ideas!
+date: 2015-12-09 13:00:00 -2
+repo: https://github.com/forge/docs.git
+ref: master
+path: /news/2015-12-15-forge-3-hangouts.asciidoc
+tags: hangout
+author: 
+   name: Forge Team
+   avatar_url: https://avatars2.githubusercontent.com/u/711249 
+---
 title: Forge 3.0.0.Alpha3 is here
 summary: JBoss Forge 3.0.0.Alpha3 is now available. Grab it while it is hot!
 date: 2015-12-09 13:00:00 -2
