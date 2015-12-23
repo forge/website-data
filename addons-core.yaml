@@ -1,3 +1,14 @@
+id: org.jboss.forge.addon:slf4j
+name: SLF4J
+description: Publishes the slf4j API in an addon
+website: http://forge.jboss.org
+repo: https://github.com/forge/slf4j-addon.git
+ref: master
+tags: slf4j
+author:
+   name: Forge team
+   avatar_url: https://avatars2.githubusercontent.com/u/711249
+---
 id: org.jboss.forge.addon:script
 name: Script
 description: Provides support to a JSR-223 ScriptEngine and ScriptFileResource
