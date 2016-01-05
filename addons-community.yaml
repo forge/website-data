@@ -258,7 +258,7 @@ url: http://fabric8.io/guide/forge.html
 website: http://fabric8.io/guide/forge.html
 installCmd: addon-install --coordinate io.fabric8.forge:camel
 repo: https://github.com/fabric8io/fabric8-forge.git
-path: /forge/addons/camel
+path: /addons/camel
 ref: master
 tags: camel, addon
 logo: http://design.jboss.org/fabric8/logo/final/fabric8_icon_32px.png
