@@ -4,6 +4,7 @@ type: Tutorial
 title: JBoss Forge 2, Java EE easily, so easily
 summary: Introductory article for JBoss Forge published in GNU/Linux Magazine France
 repo: https://github.com/forge/docs.git
+linkTransposition: /tutorials/glmf_articles_translations/01_introduction/images_en
 ref: master
 path: /tutorials/glmf_articles_translations/01_introduction/forge_introduction_by_wadael.asciidoc
 author: 
