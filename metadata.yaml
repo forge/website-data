@@ -1,2 +1,5 @@
-latestVersion: 3.0.0.Beta3
-latestReleaseDate: 2016-01-18 20:00:00 -2
+latestVersion: 2.20.2.Final
+latestReleaseDate: 2016-01-26 14:00:00 -2
+experimental:
+  version: 3.0.0.Beta3
+  releaseDate: 2016-01-18 20:00:00 -2
