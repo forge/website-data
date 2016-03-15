@@ -1,15 +1,16 @@
 level: Beginner
 group: Community
 type: Tutorial
-title: JBoss Forge 2, Java EE easily, so easily
-summary: Introductory article for JBoss Forge published in GNU/Linux Magazine France
+title: Hands-on Lab
+summary: This material helps you to setup a hands on lab on JBoss Forge. You will learn how to set it up, use it, and develop addons.
 repo: https://github.com/forge/docs.git
-linkTransposition: /tutorials/glmf_articles_translations/01_introduction/
 ref: master
-path: /tutorials/glmf_articles_translations/01_introduction/forge_introduction_by_wadael.asciidoc
-author: 
-   name: Jérôme Baton
-   avatar_url: https://avatars2.githubusercontent.com/u/1598352
+path: /tutorials/forge-hol/docs/forge-hol.adoc
+linkTransposition: /tutorials/forge-hol/docs/
+renderedBy: redoculous
+author:
+   name: Forge team
+   avatar_url: https://avatars2.githubusercontent.com/u/711249
 ---
 level: Advanced
 group: Core
@@ -107,20 +108,6 @@ author:
    name: Forge team
    avatar_url: https://avatars2.githubusercontent.com/u/711249
 ---
-level: Beginner
-group: Community
-type: Tutorial
-title: Hands-on Lab
-summary: This material helps you to setup a hands on lab on JBoss Forge. You will learn how to set it up, use it, and develop addons.
-repo: https://github.com/forge/docs.git
-ref: master
-path: /tutorials/forge-hol/docs/forge-hol.adoc
-linkTransposition: /tutorials/forge-hol/docs/
-renderedBy: redoculous
-author:
-   name: Forge team
-   avatar_url: https://avatars2.githubusercontent.com/u/711249
----
 level: Advanced
 group: Community
 type: Get Started
@@ -180,4 +167,17 @@ path: /tutorials/Profiling.asciidoc
 author:
    name: Forge team
    avatar_url: https://avatars2.githubusercontent.com/u/711249
+---
+level: Beginner
+group: Community
+type: Tutorial
+title: JBoss Forge 2, Java EE easily, so easily
+summary: Introductory article for JBoss Forge published in GNU/Linux Magazine France
+repo: https://github.com/forge/docs.git
+linkTransposition: /tutorials/glmf_articles_translations/01_introduction/
+ref: master
+path: /tutorials/glmf_articles_translations/01_introduction/forge_introduction_by_wadael.asciidoc
+author: 
+   name: Jérôme Baton
+   avatar_url: https://avatars2.githubusercontent.com/u/1598352
 ---
