@@ -1,3 +1,14 @@
+title: Forge 3.0.1.Final is here
+summary: JBoss Forge 3.0.1.Final is now available. Grab it while it is hot!
+date: 2016-03-16 18:30:00 -3
+repo: https://github.com/forge/docs.git
+ref: master
+path: /news/2016-03-16-forge-3.0.1.final.asciidoc
+tags: release announcement
+author: 
+   name: Forge Team
+   avatar_url: https://avatars2.githubusercontent.com/u/711249 
+---
 title: Forge 3.0.0.Final is here
 summary: JBoss Forge 3.0.0.Final is now available. Grab it while it is hot!
 date: 2016-03-15 14:30:00 -2
