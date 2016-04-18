@@ -1,0 +1,11 @@
+id: org.richfaces.forge:richfaces-forge-addon
+name: RichFaces
+description: Setup RichFaces in your project
+website: http://richfaces.jboss.org
+repo: https://github.com/richfaces/richfaces-forge-plugin.git
+ref: master
+tags: RichFaces, JSF
+logo: http://static.jboss.org/richfaces/images/richfaces_200x150.png
+author:
+  name: Michal Petrov
+  avatar_url: https://avatars2.githubusercontent.com/u/1999074

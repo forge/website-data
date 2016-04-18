@@ -1,0 +1,10 @@
+id: org.jboss.forge.addon:gradle
+name: Gradle
+description: Gradle build system support for Forge
+website: https://github.com/forge/addon-gradle
+repo: https://github.com/forge/addon-gradle.git
+ref: master
+tags: Gradle, Build System
+author:
+  name: Adam Wyłuda
+  avatar_url: https://avatars3.githubusercontent.com/u/3045108

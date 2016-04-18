@@ -1,0 +1,11 @@
+id: org.jboss.forge.addon:text
+name: Text Utils
+description: Provides functionality to perform text-based transformations such as inflection of words or syntax highlighting.
+website: http://forge.jboss.org
+repo: https://github.com/forge/core.git
+ref: master
+tags: Text Manipulation
+path: /text
+author:
+  name: Forge team
+  avatar_url: https://avatars2.githubusercontent.com/u/711249

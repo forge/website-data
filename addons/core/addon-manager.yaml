@@ -1,0 +1,11 @@
+id: org.jboss.forge.addon:addon-manager
+name: Addon Manager
+description: Responsible for addon installation to and removal from addon repositories.
+website: http://forge.jboss.org
+repo: https://github.com/forge/core.git
+ref: master
+tags: Addons
+path: /addon-manager
+author:
+  name: Forge team
+  avatar_url: https://avatars2.githubusercontent.com/u/711249

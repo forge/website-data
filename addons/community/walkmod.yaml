@@ -1,0 +1,11 @@
+id: org.walkmod:forge-walkmod-plugin
+name: Walkmod
+description: Apply and share coding conventions
+website: http://www.walkmod.com
+repo: https://github.com/rpau/forge-walkmod-plugin.git
+ref: master
+tags: java, code conventions, walkmod, conventions
+logo: http://walkmod.com/img/heavy-tree.jpg
+author:
+  name: Raquel Pau
+  avatar_url: https://avatars2.githubusercontent.com/u/1483433

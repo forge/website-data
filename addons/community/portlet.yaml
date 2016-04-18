@@ -1,0 +1,10 @@
+id: org.jboss.forge.addon:portlet
+name: Portlet
+description: Supports Portlets 2.0
+website: http://printstacktrace.org
+repo: https://github.com/jerr/portlet-forge-addon.git
+ref: forge2
+tags: JBoss, Portlet
+author:
+  name: Jérémie Lagarde
+  avatar_url: https://avatars1.githubusercontent.com/u/273896

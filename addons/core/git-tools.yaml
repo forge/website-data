@@ -1,0 +1,11 @@
+id: org.jboss.forge.addon:git-tools
+name: Git Tools
+description: Provides UI commands for creating and cloning GIT repositories, as well as APIs for programatically interacting with Git on the filesystem.
+website: http://forge.jboss.org
+repo: https://github.com/forge/core.git
+ref: master
+tags: Git, VCS, Version Control System
+path: /git
+author:
+  name: Forge team
+  avatar_url: https://avatars2.githubusercontent.com/u/711249

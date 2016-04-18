@@ -1,0 +1,11 @@
+id: org.jboss.forge.addon:facets
+name: Facets
+description: Enables modularization and extension of core functionality by creating standard model integration points, installation, and removal APIs.
+website: http://forge.jboss.org
+repo: https://github.com/forge/core.git
+ref: master
+tags: Facets
+path: /facets
+author:
+  name: Forge team
+  avatar_url: https://avatars2.githubusercontent.com/u/711249

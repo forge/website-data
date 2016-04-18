@@ -1,0 +1,11 @@
+id: org.jboss.forge.addon:configuration
+name: Configuration
+description: Provides a simple configuration abstraction layer for storing persistent user and project configuration.
+website: http://forge.jboss.org
+repo: https://github.com/forge/core.git
+ref: master
+tags: Configuration
+path: /configuration
+author:
+  name: Forge team
+  avatar_url: https://avatars2.githubusercontent.com/u/711249

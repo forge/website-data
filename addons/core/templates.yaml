@@ -1,0 +1,11 @@
+id: org.jboss.forge.addon:templates
+name: Templates
+description: Provides template processing services and APIs. Supports Freemarker by default, with extension points for adding other template engines.
+website: http://forge.jboss.org
+repo: https://github.com/forge/core.git
+ref: master
+tags: Templating, Freemarker, Velocity
+path: /templates
+author:
+  name: Forge team
+  avatar_url: https://avatars2.githubusercontent.com/u/711249

@@ -1,0 +1,11 @@
+id: org.george.twitter:twitter
+name: Twitter
+description: Setup a Twitter account and tweet away!
+website: https://github.com/gastaldi/twitter-addon
+repo: https://github.com/gastaldi/twitter-addon.git
+ref: master
+tags: Twitter
+logo: https://abs.twimg.com/a/1403183846/images/oauth_application.png
+author:
+  name: George Gastaldi
+  avatar_url: https://avatars3.githubusercontent.com/u/54133

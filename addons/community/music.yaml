@@ -1,0 +1,12 @@
+id: com.github.forge.addon:music-addon
+name: Music Addon
+description: Brings music to your IDE.
+website: https://github.com/rmpestano/music-addon
+repo: https://github.com/rmpestano/music-addon.git
+installCmd: addon-install-from-git --url https://github.com/rmpestano/music-addon.git
+ref: master
+tags: music, player, songs
+logo: http://s3.postimg.org/56w8lnmdb/music_icon.png
+author:
+  name: Rafael Pestano
+  avatar_url: https://pt.gravatar.com/userimage/22997497/1fa9c4a514eaf5b1ebc92f795741203e.png

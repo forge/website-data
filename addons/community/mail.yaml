@@ -1,0 +1,11 @@
+id: org.jboss.forge.addon:mail
+name: Mail
+description: Simple email client for Forge
+website: http://forge.jboss.org
+repo: https://github.com/forge/addon-mail.git
+ref: master
+tags: Email, Client, SMTP
+logo: http://9to5mac.files.wordpress.com/2013/06/mail.png?w=50
+author:
+  name: Lincoln Baxter, III
+  avatar_url: https://avatars1.githubusercontent.com/u/362329

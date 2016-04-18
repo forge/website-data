@@ -1,0 +1,11 @@
+id: org.jboss.aerogear:unifiedpush
+name: UnifiedPush
+description: Setup UnifiedPush Java Sender in your project
+website: http://aerogear.org
+repo: https://github.com/aerogear/unifiedpush-forge-addon.git
+ref: master
+tags: AeroGear, Mobile, UnifiedPush
+logo: https://avatars3.githubusercontent.com/u/954205?v=3&s=200
+author:
+  name: Sebastien Blanc
+  avatar_url: https://avatars2.githubusercontent.com/u/335133

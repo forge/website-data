@@ -1,0 +1,11 @@
+id: org.jboss.forge.addon:addons
+name: Addon Development (Addons)
+description: Provides project-types and features for manipulating and developing Forge addon projects.
+website: http://forge.jboss.org
+repo: https://github.com/forge/core.git
+ref: master
+tags: Addons, Development Tools
+path: /addons
+author:
+  name: Forge team
+  avatar_url: https://avatars2.githubusercontent.com/u/711249

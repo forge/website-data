@@ -1,0 +1,11 @@
+id: org.jboss.forge.addon:devassistant
+name: DevAssistant
+description: DevAssistant can help you set up your developing environment for non-Java projects
+website: http://devassistant.org/
+repo: https://github.com/forge/devassistant-addon.git
+ref: master
+logo: http://devassistant.org/landing_page/da-logo.png
+tags: Devassistant,Ruby,PHP,Perl,C,CPP
+author:
+  name: George Gastaldi
+  avatar_url: https://avatars3.githubusercontent.com/u/54133

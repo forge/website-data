@@ -1,0 +1,10 @@
+id: org.jboss.forge.addon:asciidoctorj
+name: AsciidoctorJ
+description: AsciidoctorJ is the official library for running Asciidoctor on the JVM. Support for AsciidocFileResource.
+website: http://asciidoctor.org/
+repo: https://github.com/forge/asciidoctorj-addon.git
+ref: master
+tags: Asciidoc
+author:
+  name: George Gastaldi
+  avatar_url: https://avatars3.githubusercontent.com/u/54133

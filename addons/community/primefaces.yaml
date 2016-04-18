@@ -1,0 +1,12 @@
+id: org.primefaces.forge:primefaces-forge-addon
+name: PrimeFaces
+description: Setup PrimeFaces in your project
+website: http://primefaces.org
+repo: https://github.com/richardhands/primefaces-forge-addon.git
+ref: master
+tags: PrimeFaces, JSF
+logo: http://primefaces.org/images/logo.png
+home: README.adoc
+author:
+  name: Richard Hands
+  avatar_url: https://avatars2.githubusercontent.com/u/8505141

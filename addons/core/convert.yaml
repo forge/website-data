@@ -1,0 +1,11 @@
+id: org.jboss.forge.addon:convert
+name: Convert
+description: Provides Conversion APIs, Utilities, and extension points for registering new Converter instances.
+website: http://forge.jboss.org
+repo: https://github.com/forge/core.git
+ref: master
+tags: Conversion
+path: /convert
+author:
+  name: Forge team
+  avatar_url: https://avatars2.githubusercontent.com/u/711249

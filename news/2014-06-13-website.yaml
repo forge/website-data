@@ -1,0 +1,10 @@
+title: We have a new website
+summary: The JBoss Forge website is being upgraded to provide easier access to documentation, simpler ways to find addons, and better tutorials and quickstarts.
+date: 2014-06-13T17:00:00Z
+repo: https://github.com/forge/docs.git
+ref: master
+path: /news/2014-06-13-website.asciidoc
+tags: noteworthy
+author:
+  name: Forge Team
+  avatar_url: https://avatars2.githubusercontent.com/u/711249

@@ -1,0 +1,11 @@
+id: org.bsc.maven:confluence-forge-plugin
+name: Confluence
+description: Publish/Download Document to/from Confluence (using Maven)
+email: bartolomeo.sorrentino@gmail.com
+website: https://github.com/bsorrentino/maven-confluence-plugin.forge
+repo: https://github.com/bsorrentino/maven-confluence-plugin.forge.git
+ref: master
+tags: Atlassian, Confluence, Maven, Wiki
+author:
+  name: bsorrentino
+  avatar_url: https://avatars1.githubusercontent.com/u/301596

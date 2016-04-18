@@ -1,0 +1,11 @@
+id: org.jboss.forge.addon:parser-json
+name: Parser - JSON
+description: Provides support for JSR-353, programmatic parsing and generation of JSON
+website: http://forge.jboss.org
+repo: https://github.com/forge/core.git
+ref: master
+tags: Parsers, JSON, JSR-353
+path: /parser-json
+author:
+  name: Forge team
+  avatar_url: https://avatars2.githubusercontent.com/u/711249

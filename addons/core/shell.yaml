@@ -1,0 +1,11 @@
+id: org.jboss.forge.addon:shell
+name: Shell
+description: Provides a native terminal implementation of the Forge UI abstraction addon. Can be used to run UICommand and Wizard instances from other installed addons.
+website: http://forge.jboss.org
+repo: https://github.com/forge/core.git
+ref: master
+tags: Shell, UIProvider, CLI, Terminal
+path: /shell
+author:
+  name: Forge team
+  avatar_url: https://avatars2.githubusercontent.com/u/711249

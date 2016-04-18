@@ -1,0 +1,11 @@
+id: org.jboss.forge.addon:scaffold
+name: Scaffold
+description: The Scaffold addon allows for code generation, specifically end-user UI generation.
+website: http://forge.jboss.org
+repo: https://github.com/forge/core.git
+ref: master
+tags: Scaffold
+path: /scaffold
+author:
+  name: Forge team
+  avatar_url: https://avatars2.githubusercontent.com/u/711249

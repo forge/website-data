@@ -1,0 +1,10 @@
+id: me.gastaldi.forge:reflections
+name: Reflections
+description: Enables the usage of the Reflections library as project facets for Java runtime metadata analysis
+website: https://github.com/gastaldi/reflections-addon
+repo: https://github.com/gastaldi/reflections-addon.git
+ref: master
+tags: Reflections, metadata, analysis
+author:
+  name: George Gastaldi
+  avatar_url: https://avatars3.githubusercontent.com/u/54133

@@ -1,0 +1,11 @@
+id: org.jboss.forge.addon:environment
+name: Environment
+description: Provides a non-persistent runtime configuration where variables can be accessed in a type-safe manner.
+website: http://forge.jboss.org
+repo: https://github.com/forge/core.git
+ref: master
+tags: ENV, Configuration
+path: /environment
+author:
+  name: Forge team
+  avatar_url: https://avatars2.githubusercontent.com/u/711249

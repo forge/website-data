@@ -1,0 +1,11 @@
+id: org.jboss.forge.addon:parser-java
+name: Parser - Java
+description: Provides APIs and services for parsing Java types, including classes, enums, interfaces, annotations, and package-info types.
+website: http://forge.jboss.org
+repo: https://github.com/forge/core.git
+ref: master
+tags: Parsers, Java, Eclipse JDT, AST
+path: /parser-java
+author:
+  name: Forge team
+  avatar_url: https://avatars2.githubusercontent.com/u/711249

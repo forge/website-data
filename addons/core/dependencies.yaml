@@ -1,0 +1,11 @@
+id: org.jboss.forge.addon:dependencies
+name: Dependencies
+description: Provides APIs and services for interacting with artifact repositories, artifact dependencies, and dependency metadata.
+website: http://forge.jboss.org
+repo: https://github.com/forge/core.git
+ref: master
+tags: Dependency Resolution, Maven, Gradle, Ivy, Ant
+path: /dependencies
+author:
+  name: Forge team
+  avatar_url: https://avatars2.githubusercontent.com/u/711249
