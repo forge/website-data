@@ -1,7 +1,7 @@
 id: org.jboss.forge.addon:gradle
 name: Gradle
 description: Gradle build system support for Forge
-website: http://forge.jboss.org
+website: https://github.com/forge/addon-gradle
 repo: https://github.com/forge/addon-gradle.git
 ref: master
 tags: Gradle, Build System
