@@ -1,0 +1,10 @@
+id: org.jboss.forge.addon:keycloak
+name: Keycloak
+description: Keycloak is an integrated SSO and IDM for browser apps and RESTful web services
+website: http://keycloak.jboss.org/
+repo: https://github.com/forge/keycloak-addon.git
+ref: master
+tags: Keycloak, SSO, REST
+author:
+  name: George Gastaldi
+  avatar_url: https://avatars3.githubusercontent.com/u/54133
