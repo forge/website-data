@@ -5,7 +5,7 @@ website: http://forge.jboss.org
 repo: https://github.com/forge/angularjs-addon.git
 ref: master
 tags: AngularJS, Scaffold, HTML5, REST
-logo: https://pbs.twimg.com/profile_images/2149314222/square.png
+logo: https://angularjs.org/img/ng-logo.png
 author:
   name: Vineet Reynolds
   avatar_url: https://avatars2.githubusercontent.com/u/792234
