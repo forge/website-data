@@ -1,4 +1,4 @@
-id: org.jboss.forge.addon:keycloak
+id: org.keycloak.forge.addon:keycloak
 name: Keycloak
 description: Keycloak is an integrated SSO and IDM for browser apps and RESTful web services
 website: http://keycloak.jboss.org/
