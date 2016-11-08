@@ -1,0 +1,10 @@
+id: org.jboss.forge.addon:shrinkwrap
+name: ShrinkWrap
+description: Java API for Archive Manipulation
+website: http://jboss.org/shrinkwrap
+repo: https://github.com/forge/shrinkwrap-addon.git
+ref: master
+tags: shrinkwrap
+author:
+  name: Forge team
+  avatar_url: https://avatars2.githubusercontent.com/u/711249
