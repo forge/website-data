@@ -6,6 +6,7 @@ website: https://github.com/bsorrentino/forge-js-addon
 repo: https://github.com/bsorrentino/forge-js-addon.git
 ref: master
 tags: javascript
+home: README.md
 author:
   name: bsorrentino
   avatar_url: https://avatars1.githubusercontent.com/u/301596
