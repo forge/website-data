@@ -1,4 +1,4 @@
-id: org.bsc:js-addon
+id: org.bsc:forge-js-addon
 name: JS
 description: Develop a JBoss Forge Addon using Javascript
 email: bartolomeo.sorrentino@gmail.com
