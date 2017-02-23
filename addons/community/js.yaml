@@ -1,9 +1,9 @@
-id: org.bsc:dynjs-addon
-name: DynJS
+id: org.bsc:forge-js-addon
+name: JS
 description: Develop a JBoss Forge Addon using Javascript
 email: bartolomeo.sorrentino@gmail.com
-website: https://github.com/bsorrentino/forge-dynjs-addon
-repo: https://github.com/bsorrentino/forge-dynjs-addon.git
+website: https://github.com/bsorrentino/forge-js-addon
+repo: https://github.com/bsorrentino/forge-js-addon.git
 ref: master
 tags: javascript
 author:
