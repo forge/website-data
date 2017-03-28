@@ -1,4 +1,4 @@
-id: me.escoffier.forge:vertx-forge-addon
+id: org.jboss.forge.addon:vertx-forge-addon
 name: Vert.x
 description: Vertx. is a toolkit to build concurrent distributed and reactive systems on the top of the Java Virtual Machine using an asynchronous non-blocking development model.
 website: http://vertx.io
