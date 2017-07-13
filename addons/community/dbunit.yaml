@@ -1,0 +1,12 @@
+id: com.github.database.rider.addon:dbunit-addon
+name: DBUnit Addon
+description: Generates DBUnit datasets based on database tables or sql result sets. 
+website: https://github.com/database-rider/dbunit-addon
+repo: https://github.com/database-rider/dbunit-addon.git
+installCmd: addon-install-from-git --url https://github.com/database-rider/dbunit-addon.git
+ref: master
+tags: dbunit, datasets, database-rider
+logo: https://github.com/database-rider/dbunit-addon/raw/master/dbunit-logo.png
+author:
+  name: Rafael Pestano
+  avatar_url: https://pt.gravatar.com/userimage/22997497/1fa9c4a514eaf5b1ebc92f795741203e.png
