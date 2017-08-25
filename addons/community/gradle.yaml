@@ -5,7 +5,7 @@ website: https://github.com/forge/addon-gradle
 repo: https://github.com/forge/addon-gradle.git
 ref: master
 tags: Gradle, Build System
-logo: http://gradle.wpengine.netdna-cdn.com/wp-content/uploads/2015/10/gradle-logo-horizontal2.svg
+logo: https://gradle.org/images/gradle-256x256.png
 author:
   name: Adam Wyłuda
   avatar_url: https://avatars3.githubusercontent.com/u/3045108
