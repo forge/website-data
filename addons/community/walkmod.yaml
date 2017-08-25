@@ -5,7 +5,7 @@ website: http://www.walkmod.com
 repo: https://github.com/rpau/forge-walkmod-plugin.git
 ref: master
 tags: java, code conventions, walkmod, conventions
-logo: https://pbs.twimg.com/profile_images/707608727759806464/AcHvoz_p.jpg
+logo: http://www.walkmod.com/public/docs/assets/img/demo/logo-mask.png
 author:
   name: Raquel Pau
   avatar_url: https://avatars2.githubusercontent.com/u/1483433
