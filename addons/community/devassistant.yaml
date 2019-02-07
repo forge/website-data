@@ -4,7 +4,7 @@ description: DevAssistant can help you set up your developing environment for no
 website: http://devassistant.org/
 repo: https://github.com/forge/devassistant-addon.git
 ref: master
-logo: http://devassistant.org/landing_page/da-logo.png
+logo: https://developer.fedoraproject.org/static/logo/devassistant.png
 tags: Devassistant,Ruby,PHP,Perl,C,CPP
 author:
   name: George Gastaldi
