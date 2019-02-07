@@ -1,0 +1,11 @@
+id: org.jboss.forge.addon:thorntail
+name: Thorntail
+description: Create self-contained Java microservices based upon the normal WildFly application-server.
+website: http://thorntail.io/
+repo: https://github.com/forge/thorntail-addon.git
+ref: master
+tags: WildFly, Microservices, Thorntail
+logo: http://design.jboss.org/thorntail/logo/final/PNG/thorntail_icon_rgb_128px.png
+author:
+  name: George Gastaldi
+  avatar_url: https://avatars3.githubusercontent.com/u/54133
