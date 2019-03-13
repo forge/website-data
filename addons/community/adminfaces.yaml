@@ -1,7 +1,7 @@
 id: com.github.adminfaces.addon:admin-addon
 name: AdminFaces Addon
 description: Enables AdminFaces setup, scaffold from JPA entities, test-setup, new service tests and scaffold config for https://adminfaces.github.io/site[AdminFaces applications^].
-website: https://github.com/adminfaces/admin-addon
+website: https://adminfaces.github.io/site
 repo: https://github.com/adminfaces/admin-addon.git
 ref: master
 tags: adminfaces, jsf, primefaces, bootstrap, responsive
