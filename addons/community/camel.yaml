@@ -8,7 +8,7 @@ repo: https://github.com/fabric8io/fabric8-forge.git
 path: /addons/camel
 ref: master
 tags: camel, addon
-logo: http://design.jboss.org/fabric8/logo/final/fabric8_icon_32px.png
+logo: https://design.jboss.org/fabric8/logo/final/fabric8_icon_32px.png
 author:
   name: Fabric8 Team
   avatar_url: http://design.jboss.org/fabric8/logo/final/fabric8_icon_256px.png
