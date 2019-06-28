@@ -5,7 +5,7 @@ website: http://vertx.io
 repo: https://github.com/forge/vertx-addon.git
 ref: master
 tags: Vert.x, Reactive, Distributed, Microservices, Vertx, Polyglot
-logo: http://vertx.io/assets/logo-sm.png
+logo: https://vertx.io/assets/logo-sm.png
 author:
   name: Clement Escoffier
   avatar_url: https://avatars0.githubusercontent.com/u/402301
