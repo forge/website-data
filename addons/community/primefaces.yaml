@@ -5,7 +5,7 @@ website: http://primefaces.org
 repo: https://github.com/richardhands/primefaces-forge-addon.git
 ref: master
 tags: PrimeFaces, JSF
-logo: http://primefaces.org/images/logo.png
+logo: https://primefaces.org/images/logo.png
 home: README.adoc
 author:
   name: Richard Hands
