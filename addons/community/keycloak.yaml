@@ -5,7 +5,7 @@ website: http://keycloak.jboss.org/
 repo: https://github.com/forge/keycloak-addon.git
 ref: master
 tags: Keycloak, SSO, REST
-logo: http://design.jboss.org/keycloak/logo/images/keycloak_icon_256px.png
+logo: https://design.jboss.org/keycloak/logo/images/keycloak_icon_256px.png
 author:
   name: George Gastaldi
   avatar_url: https://avatars3.githubusercontent.com/u/54133
