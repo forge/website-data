@@ -10,7 +10,7 @@ installCmd:
 - addon-install-from-git --url https://github.com/forge/jboss-as-addon  --coordinate org.jboss.forge.addon:jboss-as-wf
 ref: master
 tags: JBoss, Application Server, Wildfly, EAP, Deploy
-logo: http://design.jboss.org/wildfly/logo/final/wildfly_icon_128px.png
+logo: https://design.jboss.org/wildfly/logo/final/wildfly_icon_128px.png
 author:
   name: Jérémie Lagarde
   avatar_url: https://avatars1.githubusercontent.com/u/273896
