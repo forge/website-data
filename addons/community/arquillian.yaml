@@ -5,7 +5,7 @@ website: http://arquillian.org
 repo: https://github.com/forge/arquillian-addon.git
 ref: master
 tags: arquillian, junit, testng, testing
-logo: http://arquillian.org/images/arquillian_crown_icon_glossy_256.png
+logo: https://arquillian.org/images/arquillian_crown_icon_glossy_256.png
 author:
   name: Aslak Knutsen
   avatar_url: https://avatars1.githubusercontent.com/u/132158
