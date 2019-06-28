@@ -5,7 +5,7 @@ website: http://joel-costigliola.github.io/assertj/assertj-assertions-generator.
 repo: https://github.com/AlexBischof/assertj-forge-addon.git
 ref: master
 tags: AssertJ, testing
-logo: http://joel-costigliola.github.io/assertj/favicon.png
+logo: https://joel-costigliola.github.io/assertj/favicon.png
 home: README.md
 renderedBy: markdown
 author:
