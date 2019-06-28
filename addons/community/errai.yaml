@@ -6,7 +6,7 @@ repo: https://github.com/errai/errai.git
 path: /errai-forge-addon
 ref: master
 tags: errai, html5, javascript, css, templating, javaee, cordova, mobile, camera, phone
-logo: http://erraiframework.org/images/errai_logo.png
+logo: https://erraiframework.org/images/errai_logo.png
 author:
   name: Max Barkley
   avatar_url: https://avatars0.githubusercontent.com/u/4459888
